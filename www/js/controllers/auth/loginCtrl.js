@@ -4,8 +4,7 @@ angular.module('myHealthApp')
   .controller('loginCtrl', function ($scope, $state, authService) {
 
       $scope.register = function () {
-          $scope.registerUsername = $scope.username;
-          $scope.password = $scope.password;
+          $scope.username = $scope.registerUsername;
           authService.register($scope.registerUsername, $scope.registerPassword);
           $scope.registerUsername = '';
           $scope.registerPassword = '';
