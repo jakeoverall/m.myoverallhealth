@@ -1,0 +1,22 @@
+﻿<nav class="tab-bar">
+    <section class="middle tab-bar-section">
+        <h1 class="title">New Profile</h1>
+    </section>
+    <section class="right-small">
+        <a class="top-bar-small-button" ng-click="toggleForm()"><i class="fi-x"></i></a>
+    </section>
+</nav>
+<form class="small-9 small-centered columns" id="addProfileForm" name="addProfileForm" ng-submit="addProfile()">
+    <label for="profileId">Profiles: {{profiles.length}}</label>
+    <input class="hidden" type="text" ng-model="profileId" id="profileId" value="profileId" required readonly />
+    <br />
+
+    <label for="firstName">First Name</label>
+    <input class="form-control" type="text" ng-model="firstName" id="firstName" required />
+
+
+    <label for="lastName">Last Name</label>
+    <input class="form-control" type="text" ng-model="lastName" id="lastName" required />
+
+    <input class="button button-large expand"  type="submit" id="submit" value="Add Profile" />
+</form>

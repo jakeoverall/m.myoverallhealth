@@ -1,0 +1,26 @@
+﻿<div class="small-10 small-centered columns">
+    <h3 class="">New Diagnosis</h3>
+    <form class="margin-bottom" id="addDiagnosisForm" name="addDiagnosisForm" ng-submit="addDx()">
+
+        <label for="description">Diagnosis:</label>
+        <input class="form-control" type="text" ng-model="dx.description" id="description" placeholder="Example: Diabetis Type II" required />
+        
+        <label for="onsetDate">Onset Date</label>
+        <p class="input-group" ng-controller="datePickerCtrl">
+            <input class="form-control" type="text" placeholder="YYYY-MM-DD" datepicker-popup="{{format}}" is-open="opened" ng-model="dx.onsetDate" id="startDate" datepicker-options="dateOptions" />
+            <span class="input-group-btn">
+                <button type="button" class="btn btn-default" ng-click="open($event)"><i class="glyphicon glyphicon-calendar"></i></button>
+            </span>
+        </p>
+
+        <label for="notes">Notes</label>
+        <input class="form-control" type="text" ng-model="dx.notes" id="notes" placeholder="Example: Insulin Dependent" />
+
+        <div class="button-bar">
+            <ul class="button-group">
+                <li><button class="button" type="submit" id="submit"> Add Diagnosis</button></li>
+                <li><button class="button [secondary alert success]" ng-click="showForm()">Cancel</button></li>
+            </ul>
+        </div>
+    </form>
+</div>

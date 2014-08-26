@@ -1,0 +1,41 @@
+﻿<div class="small-10 small-centered columns">
+    <h3 class="">New Medication</h3>
+    <form class="margin-bottom" id="addMedicationForm" name="addMedicationForm" ng-submit="addMed()">
+
+        <label for="name">Name:</label>
+        <input class="form-control" type="text" ng-model="name" id="name" placeholder="Example: Tylenol" required />
+
+        <label for="strength">Strength</label>
+        <input class="form-control" type="text" ng-model="strength" id="strength" placeholder="Example: 10MG" />
+
+        <label for="quantity">Quantity</label>
+        <input class="form-control" type="text" ng-model="quantity" id="quantity" placeholder="Example: 1-2 Tab(s)" />
+
+        <label for="route">Route</label>
+        <select class="form-control" id="route" ng-model="route" ng-options="route for route in routes"></select>
+
+        <label for="frequency">Frequency</label>
+        <input class="form-control" type="text" ng-model="frequency" id="frequency" placeholder="Example: Twice Daily" />
+
+        <label for="startDate">Start Date</label>
+        <p class="input-group" ng-controller="datePickerCtrl">
+            <input class="form-control" type="text" placeholder="YYYY-MM-DD" datepicker-popup="{{format}}" is-open="opened" ng-model="startDate" id="startDate" datepicker-options="dateOptions" />
+            <span class="input-group-btn">
+                <button type="button" class="btn btn-default" ng-click="open($event)"><i class="glyphicon glyphicon-calendar"></i></button>
+            </span>
+        </p>
+
+        <label for="rxNumber">Prescription Number</label>
+        <input class="form-control" type="text" ng-model="rxNumber" id="rxNumber" placeholder="Example: X34521BC1" />
+
+        <label for="notes">Notes</label>
+        <input class="form-control" type="text" ng-model="notes" id="notes" placeholder="Example: Take as needed for breakthough pain" />
+
+        <div class="button-bar">
+            <ul class="button-group">
+                <li><button class="button" type="submit" id="submit"> Add Medication</button></li>
+                <li><button class="button [secondary alert success]" ng-click="cancel()">Cancel</button></li>
+            </ul>
+        </div>
+    </form>
+</div>

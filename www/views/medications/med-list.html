@@ -1,0 +1,130 @@
+﻿<div edit-med ng-show="editForm"></div>
+<div ng-show="!editForm">
+    <div class="hidden-for-small">
+        <table class="table table-bordered">
+            <caption>Active Medications</caption>
+            <tbody>
+                <tr>
+                    <th>Start Date</th>
+                    <th>Name</th>
+                    <th>Strength</th>
+                    <th>Quantity</th>
+                    <th>Route</th>
+                    <th>Frequency</th>
+                    <th>Rx Number</th>
+                    <th>Notes</th>
+                    <th>Actions</th>
+                </tr>
+                <tr ng-repeat="med in medications | filter:{active: true}">
+                    <td>{{med.startDate | date}}</td>
+                    <td>{{med.name}}</td>
+                    <td>{{med.strength}}</td>
+                    <td>{{med.quantity}}</td>
+                    <td>{{med.route}}</td>
+                    <td>{{med.frequency}}</td>
+                    <td>{{med.rxNumber}}</td>
+                    <td>{{med.notes}}</td>
+                    <td>
+                        <p class="btn-group">
+                            <a class="btn btn-success btn-xs" href="" target="_blank" ng-href="{{med.infoUrl}}"><i class="fa fa-clipboard"></i></a>
+                            <button class="btn btn-primary btn-xs" ng-click="updateMed(med)"><i class="glyphicon glyphicon-edit"></i></button>
+                            <button class="btn btn-warning btn-xs" ng-click="discontinueMedication(med)"><i class="glyphicon glyphicon-remove"></i></button>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="hidden-for-medium-up">
+        <table class="table table-bordered">
+            <caption>Active Medications</caption>
+            <tbody>
+                <tr>
+                    <th>Name</th>
+                    <th>Strength</th>
+                    <th>Quantity</th>
+                    <th>Frequency</th>
+                    <th>Actions</th>
+                </tr>
+                <tr class="hidden-for-medium-up" ng-repeat="med in medications | filter:{active: true}">
+                    <td>{{med.name}}</td>
+                    <td>{{med.strength}}</td>
+                    <td>{{med.quantity}}</td>
+                    <td>{{med.frequency}}</td>
+                    <td>
+                        <p class="btn-group">
+                            <a class="btn btn-success btn-xs" href="" target="_blank" ng-href="{{med.infoUrl}}"><i class="fa fa-clipboard"></i></a>
+                            <button class="btn btn-primary btn-xs" ng-click="updateMed(med)"><i class="glyphicon glyphicon-edit"></i></button>
+                            <button class="btn btn-warning btn-xs" ng-click="discontinueMedication(med)"><i class="glyphicon glyphicon-remove"></i></button>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <hr />
+
+    <div class="hidden-for-small">
+        <table class="table table-bordered table-responsive">
+            <caption>Discontinued Medications</caption>
+            <tbody>
+                <tr>
+                    <th>Stop Date</th>
+                    <th>Name</th>
+                    <th>Strength</th>
+                    <th>Quantity</th>
+                    <th>Route</th>
+                    <th>Frequency</th>
+                    <th>Rx Number</th>
+                    <th>Notes</th>
+                    <th>Actions</th>
+                </tr>
+                <tr ng-repeat="med in medications | filter:{active: false}">
+                    <td>{{med.dcDate | date}}</td>
+                    <td>{{med.name}}</td>
+                    <td>{{med.strength}}</td>
+                    <td>{{med.quantity}}</td>
+                    <td>{{med.route}}</td>
+                    <td>{{med.frequency}}</td>
+                    <td>{{med.rxNumber}}</td>
+                    <td>{{med.notes}}</td>
+                    <td>
+                        <p class="btn-group">
+                            <button class="btn btn-success btn-xs" ng-click="activateMed(med)"><i class="glyphicon glyphicon-eject"></i></button>
+                            <button class="btn btn-danger btn-xs" ng-click="removeMedication(med)"><i class="glyphicon glyphicon-remove"></i></button>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>    
+    <div class="hidden-for-medium-up">
+        <table class="table table-bordered">
+            <caption>Discontinued Medications</caption>
+            <tbody>
+                <tr>
+                    <th>Name</th>
+                    <th>Strength</th>
+                    <th>Quantity</th>
+                    <th>Frequency</th>
+                    <th>Actions</th>
+                </tr>
+                <tr ng-repeat="med in medications | filter:{active: false}">
+                    <td>{{med.name}}</td>
+                    <td>{{med.strength}}</td>
+                    <td>{{med.quantity}}</td>
+                    <td>{{med.frequency}}</td>
+                    <td>
+                        <p class="btn-group">
+                            <button class="btn btn-success btn-xs" ng-click="activateMed(med)"><i class="glyphicon glyphicon-eject"></i></button>
+                            <button class="btn btn-danger btn-xs" ng-click="removeMedication(med)"><i class="glyphicon glyphicon-remove"></i></button>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+
+
+    </div>
+</div>
