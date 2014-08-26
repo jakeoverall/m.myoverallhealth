@@ -2,7 +2,7 @@
 
 myHealthApp.controller('dxSearchCtrl', ['$scope', 'icd9DataService', 'firebaseService', function ($scope, icd9DataService, firebaseService) {
 
-    var diagnoses = firebaseService.getDiagnoses($scope.profile.$id).$asArray();
+    var diagnoses = firebaseService.getDiagnoses($scope.username.id, $scope.profile.$id).$asArray();
 
     $scope.diagnoses = diagnoses;
 

@@ -2,7 +2,7 @@
 
 myHealthApp.controller('medicationsCtrl', ['$scope', 'firebaseService', function ($scope, firebaseService) {
     
-    var medications = firebaseService.getMedications($scope.profile.$id).$asArray();
+    var medications = firebaseService.getMedications($scope.username.id, $scope.profile.$id).$asArray();
 
     $scope.medications = medications;
     

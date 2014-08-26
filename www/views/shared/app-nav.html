@@ -1,29 +1,29 @@
 ﻿<nav class="tab-bar">
     <section class="middle tab-bar-section">
-        <h1 class="title"><a class="item" href="" ui-sref="profile.details">{{profile.firstName}} {{profile.lastName}}</a></h1>
+        <h1 class="title"><a class="item" href="" ui-sref="secure.profile.details">{{profile.firstName}} {{profile.lastName}}</a></h1>
     </section>
     <section class="right-small">
-        <a class="top-bar-small-button" ui-sref="profiles"><i class="fi-torsos-all"></i></a>
+        <a class="top-bar-small-button" ui-sref="secure.profiles({userId: username.id})"><i class="fi-torsos-all"></i></a>
     </section>
 </nav>
 <div class="navbar-fixed-bottom icon-bar five-up">
-    <a class="item" href="" ui-sref="profile.medications">
+    <a class="item" href="" ui-sref="secure.profile.medications">
         <i class="fa fa-medkit"></i>
         <label>Meds</label>
     </a>
-    <a class="item" href="" ui-sref="profile.schedules">
+    <a class="item" href="" ui-sref="secure.profile.schedules">
         <i class="fa fa-calendar"></i>
         <label>Events</label>
     </a>
-    <a class="item" href="" ui-sref="profile.logs">
+    <a class="item" href="" ui-sref="secure.profile.logs">
         <i class="fa fa-bar-chart-o"></i>
         <label>Logs</label>
     </a>
-    <a class="item" href="" ui-sref="profile.history">
+    <a class="item" href="" ui-sref="secure.profile.history">
         <i class="fa fa-list-alt"></i>
         <label>History</label>
     </a>
-    <a class="item" href="" ui-sref="profile.symptoms">
+    <a class="item" href="" ui-sref="secure.profile.symptoms">
         <i class="fa fa-user-md"></i>
         <label>Ask</label>
     </a>

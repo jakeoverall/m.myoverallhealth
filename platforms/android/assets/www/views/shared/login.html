@@ -1,0 +1,34 @@
+﻿<div class="small-12 medium-6 small-centered columns">
+    <nav class="tab-bar">
+        <section class="middle tab-bar-section">
+            <h1 class="title">Log in</h1>
+        </section>
+    </nav>
+    <form name="loginForm" class="form-horizontal" ng-submit="logMeIn()">
+        <label for="username">Username:</label>
+        <input class="form-control" id="username" ng-model="username" />
+
+        <label for="password">Password:</label>
+        <input class="form-control" type="password" id="password" ng-model="password" />
+
+        <button ng-disabled="loginForm.$invalid" class="button expand" type="submit">Log In</button>
+    </form>
+</div>
+<hr />
+
+<div class="small-12 medium-6 small-centered columns">
+    <nav class="tab-bar">
+        <section class="middle tab-bar-section">
+            <h1 class="title">Register</h1>
+        </section>
+    </nav>
+    <form name="registerForm" class="form-horizontal" ng-submit="register()">
+        <label for="registerUsername">Username:</label>
+        <input class="form-control" id="registerUsername" ng-model="registerUsername" required />
+
+        <label for="registerUsername">Password:</label>
+        <input class="form-control" type="password" id="registerPassword" ng-model="registerPassword" required />
+
+        <button ng-disabled="loginForm.$invalid" class="button expand" type="submit">Register</button>
+    </form>
+</div>

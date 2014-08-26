@@ -1,16 +1,18 @@
 ﻿<div class="row">
 
     <div new-profile-form ng-show="showForm"></div>
-
     <div ng-show="!showForm">
         <div class="tab-bar">
             <section class="middle tab-bar-section">
                 <h1 class="title">Active Profiles</h1>
             </section>
+            <section class="right-small">
+                <a class="top-bar-small-button" ui-sref="secure.logout"><i class="fi-unlock"></i></a>
+            </section>
         </div>
         <div class="small-10 small-centered columns">
             <div class="profiles" ng-repeat="profile in profiles" ng-show="!profile.removed">
-                <a ui-sref="profile.details({profileId: profile.$id})"><div class="profile"><i class="fa fa-user"></i><br />{{profile.firstName}} {{profile.lastName}}</div></a>
+                <a ui-sref="secure.profile.details({userId: username.id, profileId: profile.$id})"><div class="profile"><i class="fa fa-user"></i><br />{{profile.firstName}} {{profile.lastName}}</div></a>
             </div>
             <div class="profiles">
                 <a ng-click="toggleForm()"><div class="profile"><i class="fa fa-plus"></i><br />New Profile</div></a>

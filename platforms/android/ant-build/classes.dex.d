@@ -1,4 +1,5 @@
 C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes.dex : \
+C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\com\bez4pieci\cookies\Cookies.class \
 C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$1.class \
 C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$2.class \
 C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard.class \
@@ -10,4 +11,18 @@ C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\com\ioni
 C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\com\ionicframework\myoverallhealth449709\R$xml.class \
 C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\com\ionicframework\myoverallhealth449709\R.class \
 C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$1.class \
+C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$2.class \
+C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$3.class \
+C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4$1.class \
+C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4.class \
+C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$1.class \
+C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$2.class \
+C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$3.class \
+C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$4.class \
+C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5.class \
+C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$InAppBrowserClient.class \
+C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser.class \
+C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowserDialog.class \
+C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppChromeClient.class \
 C:\Sites\Ionic Apps\myoverallhealth\platforms\android\ant-build\dexedLibs\classes-8a3c8764960ed5c029cb4859e3c50b78.jar \

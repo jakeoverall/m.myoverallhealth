@@ -20,60 +20,86 @@ myHealthApp.run(function ($ionicPlatform) {
 myHealthApp.config(['$stateProvider', '$urlRouterProvider', function ($stateProvider, $urlRouterProvider) {
 
 
-    $urlRouterProvider.otherwise('/main');
+    $urlRouterProvider.otherwise('/login');
 
     $stateProvider
-        .state('main', {
-            url: '/main',
-            templateUrl: 'views/shared/main.html'
+        .state('login', {
+            url: '/login',
+            templateUrl: 'views/shared/login.html',
+            controller: 'loginCtrl'
         })
-        .state('profiles', {
-            url: '/profiles',
-            templateUrl: 'views/profiles/profiles.html',
-            controller: 'profilesCtrl',
+        .state('secure', {
+            abstract: true,
+            template: '<div ui-view></div>',
+            controller: 'secureCtrl',
             resolve: {
-                profilesRef: function (firebaseService) {
-                    return firebaseService.getProfiles();
+                username: function (authService) {
+                    return authService.getUser();
                 }
             }
         })
-        .state('profile', {
+        .state('secure.main', {
+            url: '/main',
+            templateUrl: 'views/shared/main.html'
+        })
+        .state('secure.profiles', {
+            url: '/profiles/:userId',
+            templateUrl: 'views/profiles/profiles.html',
+            controller: 'profilesCtrl',
+            resolve: {
+                profilesRef: function (firebaseService, $stateParams) {
+                    return firebaseService.getProfiles($stateParams.userId);
+                }
+            }
+        })
+        .state('secure.profile', {
             abstract: true,
-            url: '/profile/:profileId',
+            url: '/:userId/profile/:profileId',
             template: '<div ui-view></div>',
             controller: 'detailsCtrl',
             resolve: {
                 profileRef: function (firebaseService, $stateParams) {
-                    return firebaseService.getProfile($stateParams.profileId);
+                    return firebaseService.getProfile($stateParams.userId, $stateParams.profileId);
                 }
             }
         })
-        .state('profile.details', {
+        .state('secure.profile.details', {
             url: '/details',
             templateUrl: 'views/profiles/details.html'
         })
-        .state('profile.medications', {
+        .state('secure.profile.medications', {
             url: '/medications',
             templateUrl: 'views/medications/medications.html',
         })
-        .state('profile.schedules', {
+        .state('secure.profile.schedules', {
             url: '/schedules',
             templateUrl: 'views/schedules/schedules.html'
         })
-        .state('profile.logs', {
+        .state('secure.profile.logs', {
             url: '/logs',
             templateUrl: 'views/logs/logs.html'
         })
-        .state('profile.history', {
+        .state('secure.profile.history', {
             url: '/history',
             templateUrl: 'views/history/history.html'
         })
-        .state('profile.immunizations', {
+        .state('secure.profile.immunizations', {
             url: '/immunizations',
             templateUrl: 'views/history/immunizations.html'
         })
-        .state('profile.symptoms', {
+        .state('secure.profile.symptoms', {
             url: '/symptoms',
             templateUrl: 'views/symptoms/symptoms.html'
-        });
+        })
+        .state('secure.logout', {
+            url: '/login',
+            templateUrl: 'views/shared/login.html',
+            controller: 'loginCtrl',
+            resolve: {
+                logout: function (authService, $state) {
+                    authService.logOut();
+                    $state.go('login');
+                }
+            }
+        });;
 }]);
