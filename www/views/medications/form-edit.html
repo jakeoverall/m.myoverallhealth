@@ -22,7 +22,7 @@
 
         <label for="startDate">Start Date</label>
         <p class="input-group" ng-controller="datePickerCtrl">
-            <input class="form-control" type="text" datepicker-popup="{{format}}" is-open="opened" ng-model="med.startDate" id="startDate" datepicker-options="dateOptions" />
+            <input class="form-control" type="date" datepicker-popup="{{format}}" is-open="opened" ng-model="med.startDate" id="startDate" datepicker-options="dateOptions" />
             <span class="input-group-btn">
                 <button type="button" class="btn btn-default" ng-click="open($event)"><i class="glyphicon glyphicon-calendar"></i></button>
             </span>
@@ -30,7 +30,7 @@
 
         <label for="dcDate">Stop Date</label>
         <p class="input-group" ng-controller="datePickerCtrl">
-            <input class="form-control" type="text" datepicker-popup="{{format}}" is-open="opened" ng-model="med.dcDate" id="dcDate" datepicker-options="dateOptions" />
+            <input class="form-control" type="date" datepicker-popup="{{format}}" is-open="opened" ng-model="med.dcDate" id="dcDate" datepicker-options="dateOptions" />
             <span class="input-group-btn">
                 <button type="button" class="btn btn-default" ng-click="open($event)"><i class="glyphicon glyphicon-calendar"></i></button>
             </span>

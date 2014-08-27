@@ -27,6 +27,11 @@ myHealthApp.controller('dxSearchCtrl', ['$scope', 'icd9DataService', 'firebaseSe
         var add = true;
         $scope.diagnoses.forEach(function (d) {
             if ($scope.dx.description === d.description) {
+                debugger;
+                var m = $scope.dx.onsetDate.toISOString();
+                $scope.dx.onsetDate = m;
+                console.log($scope.dx.onsetDate);
+                
                 $scope.diagnoses.$save($scope.dx);
                 add = false;
             }

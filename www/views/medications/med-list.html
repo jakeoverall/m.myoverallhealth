@@ -47,10 +47,7 @@
                     <th>Actions</th>
                 </tr>
                 <tr class="hidden-for-medium-up" ng-repeat="med in medications | filter:{active: true}">
-                    <td>{{med.name}}</td>
-                    <td>{{med.strength}}</td>
-                    <td>{{med.quantity}}</td>
-                    <td>{{med.frequency}}</td>
+                    <td>{{med.name}}</td>                    
                     <td>
                         <p class="btn-group">
                             <a class="btn btn-success btn-xs" href="" target="_blank" ng-href="{{med.infoUrl}}"><i class="fa fa-clipboard"></i></a>
