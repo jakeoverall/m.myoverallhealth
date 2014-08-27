@@ -29,7 +29,8 @@
     "angularfire": "~0.8.0",
     "firebase": "~1.0.21",
     "restangular": "~1.4.0",
-    "foundation-icon-fonts": "zurb/foundation-icon-fonts"
+    "foundation-icon-fonts": "zurb/foundation-icon-fonts",
+    "chartjs": "~0.2.0"
   },
   "resolutions": {
     "jquery": ">=1.6",
