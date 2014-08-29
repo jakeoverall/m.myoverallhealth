@@ -8,7 +8,7 @@
             <th class="col-sm-2">Actions</th>
         </tr>
         <tr ng-repeat="dg in diagnoses">
-            <td>{{dg.onsetDate}}</td>
+            <td>{{dg.onsetDate | date}}</td>
             <td>{{dg.description}}</td>
             <td>{{dg.notes}}</td>
             <td>

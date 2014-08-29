@@ -1,0 +1,31 @@
+﻿
+<accordion-heading>
+    <h3>
+        Blood Pressure: <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
+    </h3>
+</accordion-heading>
+<div class="row">
+    <div class="small-4 columns">
+        <label for="sysBp">Systolic:</label>
+        <input class="form-control" id="sysBp" ng-model="sys" />
+        <label for="diaBp">Diastolic:</label>
+        <input id="diaBp" class="form-control" ng-model="dia" />
+        <label for="time">Time:</label>
+        <input class="form-control" id="time" ng-model="time" placeholder="HH:MM AM" />
+        <br />
+        <button class="button" ng-click="add()">Add</button>
+    </div>
+
+    <div class="small-8 columns">
+        <ul class="list-group">
+            <li class="list-group-item active">Blood Pressures</li>
+            <li class="list-group-item" ng-repeat="bp in bps | limitTo:6">{{bp.sys}}/{{bp.dia}} <span class="badge">{{bp.time | date:'hh:mm a'}}</span></li>
+        </ul>
+    </div>
+
+</div>
+<div class="row">
+    <div class="small-12 small-centered columns">
+        <p><span class="drop-char">B/P</span> "provides a simple numeric measure of a person's thickness or thinness, allowing health professionals to discuss overweight and underweight problems more objectively with their patients. It is meant to be used as a simple means of classifying sedentary individuals."</p>
+    </div>
+</div>

@@ -1,57 +1,31 @@
-﻿<accordion>
-    <accordion-group is-open="status.open">
-        <accordion-heading>
-            <h3 ng-click="calculateBMI()">
-                Body Mass Index: <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
-            </h3>
-        </accordion-heading>
-        <div class="row">
-            <div class="small-6 columns">
-                <label for="height">Height:</label>
-                <p id="height" ng-bind="profile.feet + ' ft ' + profile.inches + ' in'"></p>
-                <label for="weight">Weight:</label>
-                <input id="weight" class="form-control" ng-model="profile.weight" />
-                <br />
-                <button class="button" ng-click="calculateBMI(profile.weight)">Update</button>
-            </div>
+﻿<accordion-heading>
+    <h3 ng-click="calculateBMI()">
+        Body Mass Index: <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
+    </h3>
+</accordion-heading>
+<div class="row">
+    <div class="small-6 columns">
+        <label for="height">Height:</label>
+        <p id="height" ng-bind="profile.feet + ' ft ' + profile.inches + ' in'"></p>
+        <label for="weight">Weight:</label>
+        <input id="weight" class="form-control" ng-model="profile.weight" />
+        <br />
+        <button class="button" ng-click="calculateBMI(profile.weight)">Update</button>
+    </div>
 
-            <div class="small-3 small-offset-3 columns">
-                <div class="bmi-graph">
-                    <div class="indicators">
-                        <div class="obese">Obese</div>
-                        <div class="healthy">Healthly</div>
-                        <div class="underweight">Low</div>
-                    </div>
-                    <div class="bmi-slider" id="BMI">{{profile.BMI | number:1}}</div>
-                </div>
+    <div class="small-3 small-offset-3 columns">
+        <div class="bmi-graph">
+            <div class="indicators">
+                <div class="obese">Obese</div>
+                <div class="healthy">Healthly</div>
+                <div class="underweight">Low</div>
             </div>
+            <div class="bmi-slider" id="BMI">{{profile.BMI | number:1}}</div>
         </div>
-        <div class="row">
-            <div class="small-12 small-centered columns bmi-info">
-                <p><span class="drop-char">BMI</span> "provides a simple numeric measure of a person's thickness or thinness, allowing health professionals to discuss overweight and underweight problems more objectively with their patients. It is meant to be used as a simple means of classifying sedentary individuals."</p>
-            </div>
-        </div>
-    </accordion-group>
-    <accordion-group>
-        <accordion-heading>
-            <h3 ng-click="">
-                Blood Pressure: <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
-            </h3>
-        </accordion-heading>
-        <div class="row">
-            <div class="small-5 columns">
-                <label for="sysBp">Systolic:</label>
-                <input class="form-control" id="sysBp" ng-model="sysBp"/>
-                <label for="diaBp">Diastolic:</label>
-                <input id="diaBp" class="form-control" ng-model="diaBp" />
-                <br />
-                <button class="button" ng-click="plotBp()">Add</button>
-            </div>
-
-            <div class="small-6 small-offset-1 columns">
-                <canvas id="bpChart" width="200" height="200"></canvas>
-        </div>
-            
-        </div>
-    </accordion-group>
-</accordion>
+    </div>
+</div>
+<div class="row">
+    <div class="small-12 small-centered columns bmi-info">
+        <p><span class="drop-char">BMI</span> "provides a simple numeric measure of a person's thickness or thinness, allowing health professionals to discuss overweight and underweight problems more objectively with their patients. It is meant to be used as a simple means of classifying sedentary individuals."</p>
+    </div>
+</div>

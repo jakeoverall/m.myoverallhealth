@@ -69,13 +69,13 @@ myHealthApp.controller('detailsCtrl', ['$scope', '$stateParams', '$location', 'p
         if ($scope.profile.BMI) {
             var b = $scope.profile.BMI;
             if (b <= 18.5) {
-                $('#BMI').css({ 'color': 'red', 'top': 110 - b });
+                $('#BMI').css({ 'color': 'red', 'top': - b });
             } else if (b >= 25 && b < 30) {
-                $('#BMI').css({ 'color': 'orangered', 'top': 70 - b });
+                $('#BMI').css({ 'color': 'orangered', 'top': (-55) + (- b) });
             } else if (b >= 30) {
-                $('#BMI').css({ 'color': 'red', 'top': 60 - b });
+                $('#BMI').css({ 'color': 'red', 'top': (-60) + (- b) });
             } else {
-                $('#BMI').css({ 'color': 'green', 'top': 90 - b });
+                $('#BMI').css({ 'color': 'green', 'top': (-32) + (- b) });
             }
         }
     };

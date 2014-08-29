@@ -6,7 +6,7 @@ myHealthApp.controller('medicationsCtrl', ['$scope', 'firebaseService', function
 
     $scope.medications = medications;
     
-    ////---------------------------------New Medication---------------------------------------------------------------------------
+    ////---------------------------------New Medication----------------------------------------
     $scope.formShow = false;
     $scope.showForm = function () {
         $scope.formShow = !$scope.formShow;

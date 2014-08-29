@@ -7098,6 +7098,7 @@ meta.foundation-mq-topbar {
     height: 2.8125rem;
     line-height: 2.8125rem;
     position: relative;
+    margin-bottom: 20px;
 }
 
     .tab-bar h1, .tab-bar h2, .tab-bar h3, .tab-bar h4, .tab-bar h5, .tab-bar h6 {

@@ -1,10 +1,10 @@
 ﻿<div>
-    <form class="small-11 small-centered columns">
+    <form class="small-12 small-centered columns">
         <div class="row form-group">
             <div class="small-4 columns">
                 <label class="right inline">Height:</label>
             </div>
-            <div class="small-6 columns end input-group" ng-show="edit">
+            <div class="small-8 columns end input-group" ng-show="edit">
                 <div class="form-inline">
                     <div class="input-group">
                         <input class="form-control" ng-model="profile.feet" placeholder="Feet" />
@@ -14,39 +14,39 @@
                     </div>
                 </div>
             </div>
-            <div class="small-6 columns end form-control-static" ng-show="!edit">{{profile.feet}}ft {{profile.inches}}in</div>
+            <div class="small-8 columns end form-control-static" ng-show="!edit">{{profile.feet}}ft {{profile.inches}}in</div>
         </div>
 
         <div class="row form-group">
             <div class="small-4 columns">
                 <label class="right inline">Weight:</label>
             </div>
-            <div class="small-6 columns end input-group" ng-show="edit">
+            <div class="small-8 columns end input-group" ng-show="edit">
                 <input class="form-control" ng-model="profile.weight" placeholder="Weight in Pounds" />
                 <span class="input-group-addon">Pounds</span>
             </div>
-            <div class="small-6 columns end form-control-static" ng-show="!edit">{{profile.weight}} lbs</div>
+            <div class="small-8 columns end form-control-static" ng-show="!edit">{{profile.weight}} lbs</div>
         </div>
 
         <div class="row form-group">
             <div class="small-4 columns">
                 <label class="right inline">Blood Type:</label>
             </div>
-            <div class="small-6 columns end" ng-show="edit">
+            <div class="small-8 columns end" ng-show="edit">
                 <select class="form-control" ng-model="profile.bloodType" ng-options="bloodType for bloodType in bloodTypes"></select>
             </div>
-            <div class="small-6 columns end form-control-static" ng-show="!edit">{{profile.bloodType}}</div>
+            <div class="small-8 columns end form-control-static" ng-show="!edit">{{profile.bloodType}}</div>
         </div>
 
         <div class="row form-group">
             <div class="small-4 columns">
                 <label class="right inline">Gender:</label>
             </div>
-            <div class="small-6 columns end" ng-show="edit">
+            <div class="small-8 columns end" ng-show="edit">
                 <label class="btn btn-primary btn-sm" ng-model="profile.gender" btn-radio="'Male'" uncheckable><i class="fa fa-male"></i> Male</label>
                 <label class="btn btn-pink btn-sm" ng-model="profile.gender" btn-radio="'Female'" uncheckable><i class="fa fa-female"></i> Female</label>
             </div>
-            <div class="small-6 columns end" ng-show="!edit">
+            <div class="small-8 columns end" ng-show="!edit">
                 <label ng-class="genderBtn"><i ng-class="genderClass"></i> {{profile.gender}}</label>
             </div>
         </div>
@@ -55,14 +55,14 @@
             <div class="small-6 small-offset-3 columns">
                 <div class="button-bar" ng-show="!edit">
                     <ul class="button-group">
-                        <li><a class="tiny button" ng-click="showForm()"><i class="fa fa-edit"></i> Edit</a></li>
-                        <li><a class="tiny button [secondary alert success]" ng-click="removeProfile()"><i class="fa fa-minus-square"></i> Remove</a></li>
+                        <li><a class="small button" ng-click="showForm()"><i class="fa fa-edit"></i> Edit</a></li>
+                        <li><a class="small button [secondary alert success]" ng-click="removeProfile()"><i class="fa fa-minus-square"></i> Remove</a></li>
                     </ul>
                 </div>
                 <div class="button-bar" ng-show="edit">
                     <ul class="button-group">
-                        <li><a class="tiny button" ng-click="saveDetails()"><i class="fa fa-save"></i> Save</a></li>
-                        <li><a class="tiny button [secondary alert success]" ng-click="showForm()"><i class="fa fa-times"></i> Cancel</a></li>
+                        <li><a class="small button" ng-click="saveDetails()"><i class="fa fa-save"></i> Save</a></li>
+                        <li><a class="small button [secondary alert success]" ng-click="showForm()"><i class="fa fa-times"></i> Cancel</a></li>
                     </ul>
                 </div>
             </div>

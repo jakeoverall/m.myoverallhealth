@@ -17,6 +17,10 @@ myHealthApp.service('firebaseService', function (environmentService, $firebase) 
         return $firebase(new Firebase(firebaseUrl + '/users/' + userId + '/profiles/' + id + '/medications'));
     };
 
+    this.getBps = function (userId, id) {
+        return $firebase(new Firebase(firebaseUrl + '/users/' + userId + '/profiles/' + id + '/logs/bps'));
+    };
+
     this.getDiagnoses = function (userId, id) {
         return $firebase(new Firebase(firebaseUrl + '/users/' + userId + '/profiles/' + id + '/diagnoses'));
     };
