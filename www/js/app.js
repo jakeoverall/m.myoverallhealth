@@ -1,7 +1,7 @@
 ﻿var myHealthApp = angular.module('myHealthApp', ['ionic', 'ui.bootstrap', 'ui.calendar', 'firebase', 'ui.router', 'restangular']);
 
 
-myHealthApp.run(function ($ionicPlatform) {
+myHealthApp.run(function ($ionicPlatform, $state) {
     $ionicPlatform.ready(function () {
         // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
         // for form inputs)
@@ -13,6 +13,18 @@ myHealthApp.run(function ($ionicPlatform) {
             StatusBar.styleDefault();
         }
     });
+    //modify the android hardware back button action
+    $ionicPlatform.registerBackButtonAction(function (event) {
+        if ($state.current === "secure.main") {
+            alert('Exiting App');
+            navigator.app.exitApp();
+        }
+        else {
+            alert('going back?');
+            navigator.app.backHistory();
+        }
+    }, 100);
+
 });
 
 

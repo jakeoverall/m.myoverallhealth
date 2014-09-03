@@ -3,11 +3,21 @@
 angular.module('myHealthApp')
   .controller('loginCtrl', function ($scope, $state, authService) {
 
+      $scope.reg = false;
+
+      $scope.showRegistration = function() {
+          $scope.reg = !$scope.reg;
+      };
+
       $scope.register = function () {
-          $scope.username = $scope.registerUsername;
-          authService.register($scope.registerUsername, $scope.registerPassword);
-          $scope.registerUsername = '';
-          $scope.registerPassword = '';
+          if ($scope.registerPassword === $scope.repeatPassword) {
+              $scope.username = $scope.registerUsername;
+              authService.register($scope.registerUsername, $scope.registerPassword);
+              $scope.registerUsername = '';
+              $scope.registerPassword = '';
+          } else {
+              alert("Passwords do not match");
+          }
       };
 
       $scope.logMeIn = function () {
