@@ -29,8 +29,10 @@ myHealthApp.run(function ($ionicPlatform, $state) {
 
 
 //Routes
-myHealthApp.config(['$stateProvider', '$urlRouterProvider', function ($stateProvider, $urlRouterProvider) {
+myHealthApp.config(['$stateProvider', '$urlRouterProvider','$httpProvider', function ($stateProvider, $urlRouterProvider, $httpProvider) {
 
+    $httpProvider.defaults.useXDomain = true;
+    delete $httpProvider.defaults.headers.common['X-Requested-With'];
 
     $urlRouterProvider.otherwise('/login');
 

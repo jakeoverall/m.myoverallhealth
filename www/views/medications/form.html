@@ -3,7 +3,7 @@
     <form class="margin-bottom" id="addMedicationForm" name="addMedicationForm" ng-submit="addMed()">
 
         <label for="name">Name:</label>
-        <input class="form-control" type="text" ng-model="name" id="name" placeholder="Example: Tylenol" required />
+        <input class="form-control" type="text" ng-model="name" id="name" placeholder="Example: Tylenol" ng-keyup="findMed()" required />
 
         <label for="strength">Strength</label>
         <input class="form-control" type="text" ng-model="strength" id="strength" placeholder="Example: 10MG" />

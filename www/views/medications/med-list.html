@@ -5,7 +5,8 @@
         <div class="well" ng-repeat="med in medications | filter:{active: true}">
             <label>Drug:</label>
             <span>{{med.name}} {{med.strength}}</span>
-            <span class="btn-group pull-right">
+            <br/>
+            <span class="btn-group">
                 <a class="tiny button [secondary success success] "  href="" target="_blank" ng-href="{{med.infoUrl}}"><i class="fa fa-clipboard"></i></a>
                 <button class="tiny button" ng-click="updateMed(med)"><i class="fa fa-edit"></i></button>
                 <button class="tiny button [secondary alert success]" ng-click="discontinueMedication(med)"><i class="fa fa-times"></i></button>
@@ -14,11 +15,12 @@
     </div>
     <hr />
     <h3>Discontinued Medications</h3>
-    <div class="small-12 small-centered columns">
+    <div class="small-12 small-centered columns margin-bottom">
         <div class="well" ng-repeat="med in medications | filter:{active: false}">
             <label>Drug:</label>
             <span>{{med.name}} {{med.strength}}</span>
-            <span class="btn-group pull-right">
+            <br/>
+            <span class="btn-group">
                 <button class="tiny button" ng-click="activateMed(med)"><i class="fa fa-chevron-up"></i></button>
                 <button class="tiny button [secondary alert success]" ng-click="removeMedication(med)"><i class="fa fa-trash-o"></i></button>
             </span>
