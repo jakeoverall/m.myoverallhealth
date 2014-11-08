@@ -6,12 +6,7 @@
         <input class="form-control" type="text" ng-model="dx.description" id="description" placeholder="Example: Diabetis Type II" required />
         
         <label for="onsetDate">Onset Date</label>
-        <p class="input-group" ng-controller="datePickerCtrl">
-            <input class="form-control" type="text" placeholder="YYYY-MM-DD" datepicker-popup="{{format}}" is-open="opened" ng-model="dx.onsetDate" id="startDate" datepicker-options="dateOptions" />
-            <span class="input-group-btn">
-                <button type="button" class="btn btn-default" ng-click="open($event)"><i class="glyphicon glyphicon-calendar"></i></button>
-            </span>
-        </p>
+        <input class="form-control" ng-model="dx.onsetDate" id="startDate" />
 
         <label for="notes">Notes</label>
         <input class="form-control" type="text" ng-model="dx.notes" id="notes" placeholder="Example: Insulin Dependent" />

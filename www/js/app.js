@@ -1,4 +1,4 @@
-﻿var myHealthApp = angular.module('myHealthApp', ['ionic', 'ui.bootstrap', 'ui.calendar', 'firebase', 'ui.router', 'restangular']);
+﻿var myHealthApp = angular.module('myHealthApp', ['ionic', 'ui.bootstrap', 'firebase', 'ui.router', 'restangular']);
 
 
 myHealthApp.run(function ($ionicPlatform, $state) {
@@ -87,7 +87,13 @@ myHealthApp.config(['$stateProvider', '$urlRouterProvider','$httpProvider', func
         })
         .state('secure.profile.schedules', {
             url: '/schedules',
-            templateUrl: 'views/schedules/schedules.html'
+            templateUrl: 'views/schedules/schedules.html',
+            controller: 'EventCtrl',
+            resolve: {
+                eventsRef: function(firebaseService, $stateParams){
+                    return firebaseService.getEvents($stateParams.userId, $stateParams.profileId);
+                }
+            }
         })
         .state('secure.profile.logs', {
             url: '/logs',

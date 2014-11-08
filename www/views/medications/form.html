@@ -18,12 +18,7 @@
         <input class="form-control" type="text" ng-model="frequency" id="frequency" placeholder="Example: Twice Daily" />
 
         <label for="startDate">Start Date</label>
-        <p class="input-group" ng-controller="datePickerCtrl">
-            <input class="form-control" type="date" placeholder="YYYY-MM-DD" datepicker-popup="{{format}}" is-open="opened" ng-model="startDate" id="startDate" datepicker-options="dateOptions" />
-            <span class="input-group-btn">
-                <button type="button" class="btn btn-default" ng-click="open($event)"><i class="glyphicon glyphicon-calendar"></i></button>
-            </span>
-        </p>
+        <input class="form-control" placeholder="YYYY-MM-DD" ng-model="startDate" id="startDate" />
 
         <label for="rxNumber">Prescription Number</label>
         <input class="form-control" type="text" ng-model="rxNumber" id="rxNumber" placeholder="Example: X34521BC1" />

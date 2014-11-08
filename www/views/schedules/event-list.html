@@ -1,0 +1,18 @@
+﻿<div edit-event ng-if="editForm"></div>
+<div ng-show="!editForm">
+    <div class="small-12 small-centered columns">
+        <div ng-repeat="event in events | orderBy: 'start': false">
+            <div class="event">
+                <a class="event-remove" ng-click="removeEvent(event)"><i class="fa fa-times"></i></a>
+                <div class="event-date" ng-click="updateEvent(event)">
+                    <b><i class="fa fa-edit"></i> {{event.start | date: 'MMM'}}</b>
+                    <p>{{event.start | date: 'dd'}}</p>
+                </div>
+                <div class="event-details">
+                    <b>{{event.title}}</b>
+                    <p>{{event.notes}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

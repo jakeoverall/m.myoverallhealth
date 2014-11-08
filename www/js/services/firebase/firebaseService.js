@@ -25,7 +25,7 @@ myHealthApp.service('firebaseService', function (environmentService, $firebase) 
         return $firebase(new Firebase(firebaseUrl + '/users/' + userId + '/profiles/' + id + '/diagnoses'));
     };
 
-    this.getSchedule = function (userId, id) {
-        return $firebase(new Firebase(firebaseUrl + '/users/' + userId + '/profiles/' + id + '/diagnoses'));
+    this.getEvents = function (userId, id) {
+        return $firebase(new Firebase(firebaseUrl + '/users/' + userId + '/profiles/' + id + '/events'));
     };
 });

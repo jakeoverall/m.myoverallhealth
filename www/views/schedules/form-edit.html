@@ -1,0 +1,24 @@
+﻿
+<div class="modal-header">
+    <h3 class="modal-title" ng-bind="event.title"></h3>
+</div>
+<div class="modal-body">
+    <form class="margin-bottom" id="editEvent" name="editEventForm" ng-submit="editEvent()">
+
+        <label for="title">Title:</label>
+        <input class="form-control" type="text" ng-model="event.title" id="title" placeholder="Example: Tylenol" required />
+
+        <label for="startDate">Event Start</label>
+        <input class="form-control" type="date" ng-model="event.start" id="startDate" />
+
+        <label for="notes">Notes</label>
+        <textarea class="form-control" type="text" ng-model="event.notes" id="notes" rows="4"></textarea>
+
+        <div class="button-bar">
+            <ul class="button-group">
+                <li><button class="button" type="submit" id="submit"> Confirm Edit</button></li>
+                <li><button class="button [secondary alert success]" ng-click="cancelEdit()">Cancel</button></li>
+            </ul>
+        </div>
+    </form>
+</div>
