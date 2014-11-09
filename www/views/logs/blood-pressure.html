@@ -4,26 +4,26 @@
         Blood Pressure: <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
     </h3>
 </accordion-heading>
-<div class="row">
-    <div class="small-4 columns">
-        <label for="sysBp">Systolic:</label>
-        <input class="form-control" id="sysBp" ng-model="sys" />
-        <label for="diaBp">Diastolic:</label>
-        <input id="diaBp" class="form-control" ng-model="dia" />
-        <label for="time">Time:</label>
-        <input class="form-control" id="time" ng-model="time" placeholder="HH:MM AM" />
+<div class="row" ng-if="!hide">
+    <div class="small-12 columns">
+        <input class="form-control" type="number" id="sysBp" placeholder="systolic" ng-model="bp.sys" />
         <br />
-        <button class="button" ng-click="add()">Add</button>
+        <input id="diaBp" type="number" class="form-control" placeholder="diastolic" ng-model="bp.dia" />
+        <br />
+        <button class="button small" ng-click="add(bp)">Add</button>
+        <button class="button [secondary alert success] small" ng-click="cancel()">Cancel</button>
     </div>
-
-    <div class="small-8 columns">
+</div>
+<div class="row">
+    <div class="small-12 columns">
         <ul class="list-group">
-            <li class="list-group-item active">Blood Pressures</li>
-            <li class="list-group-item" ng-repeat="bp in bps | limitTo:-5 | orderBy: 'time': true">{{bp.sys}}/{{bp.dia}} <span class="badge">{{bp.time | date:'hh:mm a'}}</span></li>
+            <li class="list-group-item" ng-repeat="bp in bps | limitTo: limit | orderBy: 'time': true">
+                    <span ng-class="{'bp-warning': bp.warning }"> {{bp.time | date: 'MMM, dd'}} {{bp.time | date:'hh:mm a'}} <b class="pull-right">{{bp.sys}} / {{bp.dia}}</span>
+            </li>
         </ul>
     </div>
-
 </div>
+<button class="button large expand" ng-click="changeLimit()" ng-if="hide"><i class="fa fa-plus-square-o"></i> New</button>
 <div class="row margin-bottom">
     <div class="small-12 small-centered columns">
         <p><span class="drop-char">B/P</span> "A person’s blood pressure is usually expressed in terms of the systolic pressure over diastolic pressure. Normal resting blood pressure for an adult is approximately 120/80 mm Hg. Regular monitoring of blood pressure can be helpful in identifying health risks"</p>

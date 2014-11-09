@@ -1,5 +1,26 @@
 ﻿<div>
     <form class="small-12 small-centered columns">
+
+        <div class="row form-group">
+            <div class="small-4 columns">
+                <label class="right inline">Date of Birth:</label>
+            </div>
+            <div class="small-8 columns end input-group" ng-show="edit">
+                <input class="form-control" type="date" ng-model="profile.dob" placeholder="MM/DD/YYYY" required/>
+            </div>
+            <div class="small-8 columns end form-control-static" ng-show="!edit">{{profile.dob | date}}</div>
+        </div>
+
+        <div class="row form-group">
+            <div class="small-4 columns">
+                <label class="right inline">Age:</label>
+            </div>
+            <div class="small-8 columns end input-group" ng-show="edit">
+                {{profile.age}}
+            </div>
+            <div class="small-8 columns end form-control-static" ng-show="!edit">{{profile.age}}</div>
+        </div>
+
         <div class="row form-group">
             <div class="small-4 columns">
                 <label class="right inline">Height:</label>

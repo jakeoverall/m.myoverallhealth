@@ -4,6 +4,7 @@ angular.module('myHealthApp')
 
     $scope.formShow = false;
     $scope.showForm = function () {
+        $scope.event = '';
         $scope.formShow = !$scope.formShow;
     };
 

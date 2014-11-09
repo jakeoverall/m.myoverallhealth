@@ -150,3 +150,7 @@ a:hover {
 .event-remove:hover {
   color: #222;
 }
+.bp-warning {
+  color: red;
+  font-weight: bolder;
+}

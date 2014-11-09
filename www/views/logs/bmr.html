@@ -1,0 +1,17 @@
+<accordion-heading>
+    <h3>
+        Basic Metabolic Rate: <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
+    </h3>
+</accordion-heading>
+<div class="row" ng-if="!hide">
+    <div class="small-12 columns">
+        <b>{{profile.bmr}}</b>
+        <b ng-if="error">{{error}}</b>
+    </div>
+</div>
+<button class="button large expand" ng-click="calculate()" ng-if="hide">Calculate</button>
+<div class="row margin-bottom">
+    <div class="small-12 small-centered columns">
+        <p><span class="drop-char">BMR</span> "The basic metabolic rate is a caculation of calories your body requires each day to maintain life. Your body is always active even when you are not. The body must maintain a pulsing heart, and breathing lungs and that requires a certian amount of energy or calories. The BRM will give you an idea of how many calories your body needs just to stay alive. We can then calculate what your average daily calorie intake should be depending on your goals of weight maintance, gain, or loss."</p>
+    </div>
+</div>
