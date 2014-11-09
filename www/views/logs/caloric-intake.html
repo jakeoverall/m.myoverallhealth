@@ -1,0 +1,35 @@
+<accordion-heading>
+    <h3>
+        Caloric Intake: <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
+    </h3>
+</accordion-heading>
+<div class="row">
+    <div class="small-12 columns">
+    <div>
+      <p ng-if="message">{{message}}</p>
+      <p ng-if="warning">{{warning}}</p>
+      <p ng-if="error">{{error}}</p>
+      <p ng-if="profile.targetCaloricIntake">Suggested Caloric Intake: {{profile.targetCaloricIntake}}</p>
+    </div>
+    <br />
+        <div>
+        <form name="weightGoal" ng-submit="calculateWeightGoal()" ng-if="profile.bmr">
+          <label>Fitness Level through Exercise</label>
+          <input type="radio" ng-model="profile.fitLevel" value="1.2"> Sedentary (0-2x/week)<br/>
+          <input type="radio" ng-model="profile.fitLevel" value="1.5"> Active (2-4x/week)<br/>
+          <input type="radio" ng-model="profile.fitLevel" value="1.9"> Fit (6+ week)<br/>
+          <label>Weight Goal</label>
+          <input type="radio" ng-model="profile.weightGoal" value="Loss"> Loose<br/>
+          <input type="radio" ng-model="profile.weightGoal" value="Maintain"> Maintain<br/>
+          <input type="radio" ng-model="profile.weightGoal" value="Gain"> Gain<br/>
+          <button class="button large expand" ng-click="calculate()">Calculate</button>
+        </form>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="small-12 small-centered columns">
+        <p><span class="drop-char">HBE</span> "The Harris Benedict Equation is a formula that uses your BMR and then applies an activity factor to determine your total daily energy expenditure (calories). The only factor omitted by the Harris Benedict Equation is lean body mass. Remember, leaner bodies need more calories than less leaner ones. Therefore, this equation will be very accurate in all but the very muscular (will under-estimate calorie needs) and the very fat (will over-estimate calorie needs)."</p>
+    </div>
+</div>

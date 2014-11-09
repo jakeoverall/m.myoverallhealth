@@ -3,7 +3,7 @@
     <h3 class="modal-title" ng-bind="med.name"></h3>
 </div>
 <div class="modal-body">
-    <form class="margin-bottom" id="editMedication" name="editMedicationForm" ng-submit="editMed()">
+    <form id="editMedication" name="editMedicationForm" ng-submit="editMed()">
 
         <label for="name">Name:</label>
         <input class="form-control" type="text" ng-model="med.name" id="name" placeholder="Example: Tylenol" required />

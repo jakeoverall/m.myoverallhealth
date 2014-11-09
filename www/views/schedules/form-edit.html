@@ -3,7 +3,7 @@
     <h3 class="modal-title" ng-bind="event.title"></h3>
 </div>
 <div class="modal-body">
-    <form class="margin-bottom" id="editEvent" name="editEventForm" ng-submit="editEvent()">
+    <form id="editEvent" name="editEventForm" ng-submit="editEvent()">
 
         <label for="title">Title:</label>
         <input class="form-control" type="text" ng-model="event.title" id="title" placeholder="Example: Tylenol" required />

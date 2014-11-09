@@ -15,7 +15,7 @@
     </div>
     <hr />
     <h3>Discontinued Medications</h3>
-    <div class="small-12 small-centered columns margin-bottom">
+    <div class="small-12 small-centered columns">
         <div class="well" ng-repeat="med in medications | filter:{active: false}">
             <label>Drug:</label>
             <span>{{med.name}} {{med.strength}}</span>

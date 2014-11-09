@@ -102,8 +102,9 @@ a:hover {
   background-color: darkgreen; }
 .immunizations table tr td:hover {
   background-color: blue; }
-.margin-bottom {
+.bottom-margin {
     margin-bottom: 100px;
+    text-indent: -99999px;
 }
 
 .event {
@@ -153,4 +154,7 @@ a:hover {
 .bp-warning {
   color: red;
   font-weight: bolder;
+}
+.bmr {
+  font-size: 45px;
 }
