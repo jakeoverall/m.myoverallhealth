@@ -1,6 +1,6 @@
 <accordion-heading>
     <h3>
-        Caloric Intake: <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
+        Target Caloric Intake: <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
     </h3>
 </accordion-heading>
 <div class="row">
@@ -9,7 +9,7 @@
       <p ng-if="message">{{message}}</p>
       <p ng-if="warning">{{warning}}</p>
       <p ng-if="error">{{error}}</p>
-      <p ng-if="profile.targetCaloricIntake">Suggested Caloric Intake: {{profile.targetCaloricIntake}}</p>
+      <p ng-if="profile.targetCaloricIntake">Suggested Daily Caloric Intake: {{profile.targetCaloricIntake}}</p>
     </div>
     <br />
         <div>

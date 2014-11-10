@@ -1,0 +1,36 @@
+
+<accordion-heading>
+    <h3 ng-click="wait()">
+        Daily Calories: <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
+    </h3>
+</accordion-heading>
+<div class="row animate-show" ng-show="profile.targetCaloricIntake">
+    <div class="small-12 columns">
+        <input class="form-control" type="number" placeholder="Calories" ng-model="day.calories" />
+        <br />
+        <input type="date" class="form-control" placeholder="MM/DD/YYYY" ng-model="day.date" />
+        <br />
+        <button class="button small" ng-click="addDailyCalories(day)">Add</button>
+        <button class="button [secondary alert success] small" ng-click="cancel()">Cancel</button>
+    </div>
+</div>
+<b ng-if="message">{{message}}</b>
+<b class="bp-warning" ng-if="message">{{error}}</b>
+<div class="row">
+        <ul class="list-group small-12 columns">
+            <li class="list-group-item" ng-repeat="day in thisWeek | limitTo: limit | orderBy: 'day': true">
+                    <span ng-class="{'bp-warning': day.warning }">
+                    {{day.date | date: 'MMM, dd'}} <b class="pull-right">{{day.calories}}
+                    </span>
+            </li>
+            <li class="list-group-item"><span>Total: <b class='pull-right'> {{weeklyTotal}}</b></span></li>
+            <li class="list-group-item"><span>SWC: <b class='pull-right'> {{swc}}</b></span></li>
+            <li class="list-group-item"><span>Remaining: <b class="pull-right" ng-class="{'bp-warning': weeklyDeficit }"> {{diff}}</b></span></li>
+        </ul>
+</div>
+<button class="button large expand animate-show" ng-click="changeLimit()" ng-show="hide"><i class="fa fa-plus-square-o"></i> New</button>
+<div class="row">
+    <div class="small-12 small-centered columns">
+        <p><span class="drop-char">SWC</span> "Your Suggested Weekly Calories comes from you weight goal and fitness level as calculated by The Harris Benedict Equation. Tracking daily caloric intake is a smart way to help keep you on track to achieve your weight goals."</p>
+    </div>
+</div>

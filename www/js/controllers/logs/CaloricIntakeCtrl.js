@@ -3,7 +3,7 @@ var myHealthApp = angular.module('myHealthApp');
 myHealthApp.controller('CaloricIntakeCtrl', ['$scope', function ($scope) {
 
     $scope.calculateWeightGoal = function(){
-        if($scope.profile.bmr){
+        if($scope.profile.weightGoal && $scope.profile.fitLevel){
             $scope.message = '';
             $scope.warning = '';
             $scope.profile.targetCaloricIntake = Number($scope.profile.bmr) * Number($scope.profile.fitLevel);
@@ -30,5 +30,13 @@ myHealthApp.controller('CaloricIntakeCtrl', ['$scope', function ($scope) {
     } else {
         $scope.error = '';
     }
+    if($scope.profile.bmr && !$scope.profile.targetCaloricIntake){
+        $scope.calculateWeightGoal();
+    }
+
+    $scope.addDailyCalories = function(){
+        $scope.dailyCalories.$add($scope.newDay);
+    };
+    
 
 }]);
