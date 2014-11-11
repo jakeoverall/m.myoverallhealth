@@ -68,24 +68,19 @@ $scope.changeWeek = function(direction){
 }
 
 $scope.removeDay = function(day, i){
-  debugger;
-  $scope.dailyCalories.$remove(day).then(function(){
-    debugger;
+  $scope.dailyCalories = $scope.dailyCalories.$remove(day).then(function(){
     $scope.thisWeek.splice(i, 1);
     $scope.calculateWeek($scope.activeWeek);
   });
 };
 
   $scope.calculateWeek = function(date){
-    if(!$scope.dailyCalories){
-      wait();
-    }
+    wait();
     var w;
     $scope.limit = 0;
     $scope.thisWeek = [];
     var year = '';
     if(date){
-      console.log(date);
       year = date.getFullYear();
       $scope.week = date.getWeekNumber();
       $scope.activeWeek = date;
