@@ -1,36 +1,6 @@
 angular.module('myHealthApp')
-  .controller('EventCtrl', function ($scope, eventsRef, $cordovaCalendar) {
+  .controller('EventCtrl', function ($scope, eventsRef) {
     $scope.events = eventsRef.$asArray();
-    // $cordovaCalendar.createCalendar({
-    //     calendarName: 'MyHealthCalendar',
-    //     calendarColor: '#FF0000'
-    // }).then(function(res){
-    //     if(res){
-    //         console.log(res);
-    //     }
-    // }, function (err) {
-    //     if(err){
-    //         console.log(err);
-    //     }
-    // });
-
-    // var addEvent = function (event) {
-    //     $cordovaCalendar.createEvent({
-    //         title: event.title,
-    //         location: event.location || '',
-    //         notes: event.notes || '',
-    //         startDate: event.startDate || new Date(),
-    //         endDate: event.endDate || new Date()
-    //     }).then(function (result) {
-    //         if(result){
-    //             console.log(result);
-    //         }
-    //     }, function (err) {
-    //         if(err){
-    //             console.log(err);
-    //         }
-    //     });
-    // };
 
     $scope.formShow = false;
     $scope.showForm = function () {

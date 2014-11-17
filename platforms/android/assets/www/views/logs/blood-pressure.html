@@ -18,8 +18,8 @@
 </div>
 <swipe-cards>
 <swipe-card ng-repeat="bp in bps | limitTo: limit | orderBy: 'time': true">
-<div class="alert bp-font" ng-class="{'alert-danger': bp.warning, 'alert-success': !bp.warning}" on-swipe-left="removeBp(bp)">
-    <span> {{bp.time | date: 'MMM, dd'}} {{bp.time | date:'hh:mm a'}} <b class="pull-right">{{bp.sys}} / {{bp.dia}}</b></span>
+<div class="alert bp-font" ng-class="{'alert-danger': bp.warning, 'alert-success': !bp.warning}">
+    <span> {{bp.time | date: 'MMM, dd'}} {{bp.time | date:'hh:mm a'}} <b class="pull-right">{{bp.sys}} / {{bp.dia}} <i class="fa fa-times touch-area" ng-click="removeBp(bp)"></i></b> </span>
 </div>
 </swipe-card>
 </swipe-cards>

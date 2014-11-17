@@ -16,11 +16,11 @@ myHealthApp.run(function ($ionicPlatform, $state) {
         //modify the android hardware back button action
         $ionicPlatform.registerBackButtonAction(function (event) {
             if ($state.current === "secure.main") {
-                alert('Exiting App');
-                navigator.app.exitApp();
+                if(confirm('Are you sure you want to close the app?')){
+                    navigator.app.exitApp();
+                }
             }
             else {
-                alert('going back?');
                 navigator.app.backHistory();
             }
         }, 100);

@@ -1,5 +1,5 @@
-body {
-  background-color: silver; }
+body, html {
+  background: silver; }
 h3 {
   font-size: 18px;
 }
@@ -152,9 +152,10 @@ a:hover {
 }
 .event-remove {
   float: right;
-  margin: 3px;
+  margin: -10px;
   color: #5c5c5c;
   text-decoration: none;
+  padding: 10px;
 }
 .event-remove:hover {
   color: #222;
@@ -183,4 +184,9 @@ a:hover {
 .selectable.active {
   background-color: #32e55c;
   border: 1px solid #20a03e;
+}
+
+.touch-area {
+  padding: 10px;
+  margin: -10px;
 }

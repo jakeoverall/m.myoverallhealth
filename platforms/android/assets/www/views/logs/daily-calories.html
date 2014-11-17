@@ -18,7 +18,7 @@
     </div>
 </div>
     <div>
-        <h2 class="week-header"><i class="fa fa-chevron-left pull-left" ng-click="changeWeek()"></i> Week {{week}} <i class="fa fa-chevron-right pull-right" ng-click="changeWeek(true)"></i></a></h2>
+        <h2 class="week-header"><i class="fa fa-chevron-left pull-left touch-area" ng-click="changeWeek()"></i> Week {{week}} <i class="fa fa-chevron-right pull-right touch-area" ng-click="changeWeek(true)"></i></a></h2>
     </div>
     <div>
         <div class="alert alert-success"><span>SWC: <b class='pull-right'> {{swc}}</b></span></div>
@@ -28,7 +28,7 @@
 <br />
 <h3>Weekly Calorie Intake</h3>
 <div class="alert" ng-repeat="day in thisWeek | limitTo: limit | orderBy: 'day': true" ng-class="{'alert-info': !day.overLimit, 'alert-warning': day.overLimit}" ng-if="!day.hide">
-<span>Calories {{day.date | date: 'MMM, dd'}}: <b class="pull-right">{{day.calories}} <i class="fa fa-times" ng-click="removeDay(day, $index)"></i></span>
+<span>Calories {{day.date | date: 'MMM, dd'}}: <b class="pull-right">{{day.calories}} <i class="fa fa-times touch-area" ng-click="removeDay(day, $index)"></i></span>
 </div>
 <hr />
 

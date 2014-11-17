@@ -1,1998 +1,1984 @@
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\CordovaApp.ap_ \
- : C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\res\drawable\icon.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\res\drawable-hdpi\icon.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\res\drawable-land-hdpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\res\drawable-land-ldpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\res\drawable-land-mdpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\res\drawable-land-xhdpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\res\drawable-ldpi\icon.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\res\drawable-mdpi\icon.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\res\drawable-port-hdpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\res\drawable-port-ldpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\res\drawable-port-mdpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\res\drawable-port-xhdpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\res\drawable-xhdpi\icon.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\res\values\strings.xml \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\res\xml\config.xml \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\res\drawable\icon.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\res\drawable-hdpi\icon.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\res\drawable-ldpi\icon.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\res\drawable-mdpi\icon.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\_where-is-www.txt \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\cordova.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\cordova_plugins.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\img \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\index.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\plugins \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\templates \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\css\animations.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\css\graphs.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\css\site.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\css\style.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\img\ionic.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\app.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\app.js.ionic.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\env.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\filters \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\services \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\services.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\auth \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\history \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\logs \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\medications \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\profiles \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\schedules \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\auth\loginCtrl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\auth\secure.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\history\dxSearchCtrl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\logs\bmiCtrl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\logs\bmrCtrl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\logs\bpCtrl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\logs\CaloricIntakeCtrl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\logs\DailyCaloriesCtrl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\medications\medicationsCtrl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\profiles\detailsCtrl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\profiles\profilesCtrl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\controllers\schedules\eventCtrl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\appNav.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\BMI.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\bmiSmall.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\details \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\history \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\logs \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\medications \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\newProfileForm.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\schedules \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\details\formDetails.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\history\addDiagnosis.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\history\diagnoses.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\history\editDiagnosis.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\logs\bloodPressure.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\logs\bmr.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\logs\caloricIntake.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\logs\dailyCalories.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\medications\addMed.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\medications\editMed.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\medications\medList.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\schedules\addEvent.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\schedules\editEvent.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\directives\schedules\eventList.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\filters\reverse.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\services\dailyMedService.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\services\enviromentService.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\services\firebase \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\services\icd9DataService.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\services\firebase\authService.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\js\services\firebase\firebaseService.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-animate \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-bootstrap \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-sanitize \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-calendar \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angularfire \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\collide \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\fastclick \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\firebase \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\firebase-simple-login \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\fullcalendar \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-placeholder \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery.cookie \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\lodash \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ngCordova \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular\angular-csp.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular\angular.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular\angular.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular\angular.min.js.gzip \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular\angular.min.js.map \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-animate\angular-animate.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-animate\angular-animate.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-animate\angular-animate.min.js.map \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-animate\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-animate\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-bootstrap\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-bootstrap\ui-bootstrap-tpls.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-bootstrap\ui-bootstrap-tpls.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-bootstrap\ui-bootstrap.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-bootstrap\ui-bootstrap.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-sanitize\angular-sanitize.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-sanitize\angular-sanitize.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-sanitize\angular-sanitize.min.js.map \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-sanitize\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-sanitize\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-calendar\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-calendar\LICENSE \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-calendar\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-calendar\src \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-calendar\src\calendar.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\CHANGELOG.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\LICENSE \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\release \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\src \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\release\angular-ui-router.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\release\angular-ui-router.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\src\common.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\src\compat.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\src\resolve.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\src\state.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\src\stateDirectives.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\src\stateFilters.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\src\templateFactory.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\src\urlMatcherFactory.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\src\urlRouter.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\src\view.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\src\viewDirective.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angular-ui-router\src\viewScroll.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angularfire\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angularfire\CHANGELOG.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angularfire\dist \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angularfire\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angularfire\dist\angularfire.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\angularfire\dist\angularfire.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\fonts \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\grunt \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\Gruntfile.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\LICENSE \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\package.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist\css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist\fonts \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist\js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist\css\bootstrap-theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist\css\bootstrap-theme.css.map \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist\css\bootstrap-theme.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist\css\bootstrap.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist\css\bootstrap.css.map \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist\css\bootstrap.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.eot \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist\js\bootstrap.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\dist\js\bootstrap.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\fonts\glyphicons-halflings-regular.eot \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\fonts\glyphicons-halflings-regular.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\fonts\glyphicons-halflings-regular.ttf \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\fonts\glyphicons-halflings-regular.woff \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\grunt\bs-glyphicons-data-generator.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\grunt\bs-lessdoc-parser.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\grunt\bs-raw-files-generator.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\grunt\sauce_browsers.yml \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\js\affix.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\js\alert.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\js\button.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\js\carousel.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\js\collapse.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\js\dropdown.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\js\modal.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\js\popover.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\js\scrollspy.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\js\tab.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\js\tooltip.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\js\transition.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\alerts.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\badges.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\bootstrap.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\breadcrumbs.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\button-groups.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\buttons.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\carousel.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\close.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\code.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\component-animations.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\dropdowns.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\forms.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\glyphicons.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\grid.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\input-groups.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\jumbotron.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\labels.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\list-group.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\media.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\modals.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\navbar.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\navs.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\normalize.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\pager.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\pagination.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\panels.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\popovers.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\print.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\progress-bars.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\responsive-embed.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\responsive-utilities.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\scaffolding.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\tables.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\theme.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\thumbnails.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\tooltip.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\type.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\utilities.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\variables.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\wells.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\alerts.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\background-variant.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\border-radius.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\buttons.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\center-block.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\clearfix.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\forms.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\gradients.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\grid-framework.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\grid.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\hide-text.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\image.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\labels.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\list-group.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\nav-divider.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\nav-vertical-align.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\opacity.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\pagination.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\panels.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\progress-bar.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\reset-filter.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\resize.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\responsive-visibility.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\size.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\tab-focus.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\table-row.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\text-emphasis.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\text-overflow.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\bootstrap\less\mixins\vendor-prefixes.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\Chart.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\Chart.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\component.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\docs \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\LICENSE.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\readme.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\samples \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\site \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\docs\Chart.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\docs\index.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\docs\prettify.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\docs\prettify.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\docs\prettify.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\docs\styles.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\docs\styles.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\samples\bar.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\samples\doughnut.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\samples\line.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\samples\pie.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\samples\polarArea.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\samples\radar.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\samples\sixup.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\site\assets \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\site\index.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\site\styles.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\site\assets\6charts.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\site\assets\Chart.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\site\assets\effects.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\site\assets\excanvas.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\site\assets\html.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\chartjs\site\assets\simple.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\collide\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\collide\collide.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\collide\package.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\collide\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\collide\test \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\collide\test.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\collide\test\animator.spec.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\collide\test\core \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\collide\test\util \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\collide\test\core\timeline.spec.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\collide\test\util\simple-emitter.spec.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\fastclick\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\fastclick\lib \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\fastclick\LICENSE \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\fastclick\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\fastclick\lib\fastclick.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\firebase\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\firebase\firebase-debug.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\firebase\firebase.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\firebase\LICENSE \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\firebase\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\firebase-simple-login\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\firebase-simple-login\CHANGELOG.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\firebase-simple-login\firebase-simple-login-debug.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\firebase-simple-login\firebase-simple-login.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\firebase-simple-login\LICENSE \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\firebase-simple-login\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\fonts \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\css\font-awesome.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\css\font-awesome.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\fonts\fontawesome-webfont.eot \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\fonts\fontawesome-webfont.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\fonts\fontawesome-webfont.ttf \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\fonts\fontawesome-webfont.woff \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\fonts\FontAwesome.otf \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\less\bordered-pulled.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\less\core.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\less\extras.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\less\fixed-width.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\less\font-awesome.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\less\icons.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\less\larger.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\less\list.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\less\mixins.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\less\path.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\less\rotated-flipped.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\less\spinning.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\less\stacked.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\less\variables.less \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\scss\font-awesome.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\scss\_bordered-pulled.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\scss\_core.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\scss\_extras.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\scss\_fixed-width.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\scss\_icons.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\scss\_larger.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\scss\_list.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\scss\_mixins.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\scss\_path.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\scss\_rotated-flipped.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\scss\_spinning.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\scss\_stacked.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\font-awesome\scss\_variables.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\css\foundation.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\css\foundation.css.map \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\css\normalize.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\css\normalize.css.map \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\vendor \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.abide.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.accordion.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.alert.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.clearing.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.dropdown.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.equalizer.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.interchange.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.joyride.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.magellan.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.offcanvas.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.orbit.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.reveal.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.slider.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.tab.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.tooltip.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\foundation\foundation.topbar.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\vendor\fastclick.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\vendor\jquery.cookie.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\vendor\jquery.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\vendor\modernizr.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\js\vendor\placeholder.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\normalize.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\_functions.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\_settings.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_accordion.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_alert-boxes.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_block-grid.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_breadcrumbs.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_button-groups.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_buttons.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_clearing.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_dropdown-buttons.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_dropdown.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_flex-video.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_forms.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_global.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_grid.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_icon-bar.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_inline-lists.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_joyride.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_keystrokes.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_labels.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_magellan.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_offcanvas.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_orbit.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_pagination.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_panels.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_pricing-tables.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_progress-bars.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_range-slider.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_reveal.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_side-nav.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_split-buttons.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_sub-nav.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_switches.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_tables.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_tabs.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_thumbs.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_toolbar.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_tooltips.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_top-bar.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_type.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation\scss\foundation\components\_visibility.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\foundation-icons.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\foundation-icons.eot \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\foundation-icons.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\foundation-icons.ttf \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\foundation-icons.woff \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\index.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\_foundation-icons.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-address-book.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-alert.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-align-center.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-align-justify.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-align-left.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-align-right.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-anchor.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-annotate.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-archive.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrow-down.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrow-left.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrow-right.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrow-up.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrows-compress.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrows-expand.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrows-in.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrows-out.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-asl.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-asterisk.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-at-sign.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-background-color.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-battery-empty.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-battery-full.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-battery-half.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-bitcoin-circle.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-bitcoin.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-blind.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-bluetooth.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-bold.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-book-bookmark.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-book.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-bookmark.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-braille.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-burst-new.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-burst-sale.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-burst.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-calendar.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-camera.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-check.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-checkbox.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-clipboard-notes.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-clipboard-pencil.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-clipboard.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-clock.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-closed-caption.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-cloud.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-comment-minus.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-comment-quotes.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-comment-video.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-comment.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-comments.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-compass.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-contrast.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-credit-card.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-crop.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-crown.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-css3.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-database.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-die-five.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-die-four.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-die-one.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-die-six.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-die-three.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-die-two.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-dislike.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-dollar-bill.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-dollar.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-download.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-eject.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-elevator.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-euro.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-eye.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-fast-forward.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-female-symbol.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-female.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-filter.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-first-aid.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-flag.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-folder-add.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-folder-lock.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-folder.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-foot.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-foundation.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-graph-bar.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-graph-horizontal.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-graph-pie.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-graph-trend.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-guide-dog.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-hearing-aid.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-heart.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-home.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-html5.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-indent-less.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-indent-more.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-info.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-italic.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-key.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-laptop.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-layout.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-lightbulb.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-like.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-link.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-list-bullet.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-list-number.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-list-thumbnails.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-list.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-lock.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-loop.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-magnifying-glass.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-mail.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-male-female.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-male-symbol.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-male.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-map.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-marker.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-megaphone.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-microphone.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-minus-circle.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-minus.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-mobile-signal.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-mobile.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-monitor.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-mountains.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-music.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-next.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-no-dogs.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-no-smoking.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-add.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-copy.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-csv.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-delete.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-doc.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-edit.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-export-csv.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-export-doc.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-export-pdf.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-export.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-filled.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-multiple.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-pdf.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-remove.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-search.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-paint-bucket.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-paperclip.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-pause.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-paw.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-paypal.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-pencil.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-photo.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-play-circle.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-play-video.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-play.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-plus.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-pound.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-power.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-previous.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-price-tag.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-pricetag-multiple.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-print.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-prohibited.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-projection-screen.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-puzzle.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-quote.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-record.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-refresh.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-results-demographics.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-results.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-rewind-ten.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-rewind.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-rss.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-safety-cone.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-save.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-share.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-sheriff-badge.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-shield.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-shopping-bag.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-shopping-cart.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-shuffle.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-skull.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-500px.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-adobe.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-amazon.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-android.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-apple.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-behance.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-bing.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-blogger.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-delicious.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-designer-news.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-deviant-art.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-digg.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-dribbble.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-drive.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-dropbox.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-evernote.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-facebook.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-flickr.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-forrst.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-foursquare.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-game-center.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-github.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-google-plus.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-hacker-news.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-hi5.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-instagram.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-joomla.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-lastfm.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-linkedin.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-medium.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-myspace.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-orkut.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-path.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-picasa.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-pinterest.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-rdio.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-reddit.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-skillshare.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-skype.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-smashing-mag.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-snapchat.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-spotify.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-squidoo.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-stack-overflow.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-steam.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-stumbleupon.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-treehouse.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-tumblr.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-twitter.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-vimeo.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-windows.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-xbox.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-yahoo.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-yelp.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-youtube.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-zerply.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-zurb.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-sound.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-star.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-stop.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-strikethrough.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-subscript.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-superscript.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-tablet-landscape.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-tablet-portrait.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-target-two.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-target.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-telephone-accessible.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-telephone.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-text-color.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-thumbnails.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-ticket.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torso-business.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torso-female.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torso.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torsos-all-female.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torsos-all.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torsos-female-male.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torsos-male-female.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torsos.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-trash.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-trees.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-trophy.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-underline.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-universal-access.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-unlink.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-unlock.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-upload-cloud.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-upload.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-usb.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-video.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-volume-none.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-volume-strike.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-volume.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-web.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-wheelchair.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-widget.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-wrench.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-x-circle.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-x.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-yen.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-zoom-in.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-zoom-out.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\fullcalendar\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\fullcalendar\fullcalendar.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\fullcalendar\fullcalendar.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\fullcalendar\fullcalendar.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\fullcalendar\fullcalendar.print.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\fullcalendar\gcal.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\fullcalendar\Gruntfile.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\fonts \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\ionic.swipecards.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\version.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\css\ionic.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\css\ionic.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\css\ionic.swipecards.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\fonts\ionicons.eot \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\fonts\ionicons.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\fonts\ionicons.ttf \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\fonts\ionicons.woff \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\angular \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\angular-ui \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\ionic-angular.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\ionic-angular.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\ionic.bundle.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\ionic.bundle.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\ionic.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\ionic.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\angular\angular-animate.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\angular\angular-animate.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\angular\angular-resource.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\angular\angular-resource.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\angular\angular-sanitize.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\angular\angular-sanitize.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\angular\angular.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\angular\angular.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\angular-ui\angular-ui-router.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\js\angular-ui\angular-ui-router.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\ionic.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\ionicons \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_action-sheet.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_animations.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_backdrop.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_badge.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_bar.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_button-bar.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_button.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_checkbox.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_form.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_grid.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_items.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_list.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_loading.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_menu.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_mixins.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_modal.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_platform.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_popover.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_popup.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_progress.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_radio.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_range.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_reset.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_scaffolding.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_select.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_slide-box.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_split-pane.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_tabs.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_toggle.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_type.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_util.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\_variables.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\ionicons\ionicons.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-animation.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-font.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-icons.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-variables.scss \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\dist \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\MIT-LICENSE.txt \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\dist\jquery.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\dist\jquery.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\dist\jquery.min.map \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\ajax \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\ajax.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\attributes \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\attributes.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\callbacks.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\core \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\core.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\css.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\data \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\data.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\deferred.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\deprecated.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\dimensions.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\effects \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\effects.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\event \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\event.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\exports \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\intro.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\jquery.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\manipulation \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\manipulation.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\offset.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\outro.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\queue \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\queue.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\selector-native.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\selector-sizzle.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\selector.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\serialize.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\sizzle \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\traversing \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\traversing.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\var \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\wrap.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\ajax\jsonp.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\ajax\load.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\ajax\parseJSON.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\ajax\parseXML.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\ajax\script.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\ajax\var \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\ajax\xhr.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\ajax\var\nonce.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\ajax\var\rquery.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\attributes\attr.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\attributes\classes.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\attributes\prop.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\attributes\support.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\attributes\val.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\core\access.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\core\init.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\core\parseHTML.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\core\ready.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\core\var \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\core\var\rsingleTag.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\css\addGetHookIf.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\css\curCSS.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\css\defaultDisplay.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\css\hiddenVisibleSelectors.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\css\support.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\css\swap.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\css\var \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\css\var\cssExpand.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\css\var\getStyles.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\css\var\isHidden.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\css\var\rmargin.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\css\var\rnumnonpx.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\data\accepts.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\data\Data.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\data\var \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\data\var\data_priv.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\data\var\data_user.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\effects\animatedSelector.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\effects\Tween.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\event\alias.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\event\support.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\exports\amd.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\exports\global.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\manipulation\support.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\manipulation\var \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\manipulation\_evalUrl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\manipulation\var\rcheckableType.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\queue\delay.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\sizzle\dist \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\sizzle\dist\sizzle.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\sizzle\dist\sizzle.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\sizzle\dist\sizzle.min.map \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\traversing\findFilter.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\traversing\var \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\traversing\var\rneedsContext.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\var\arr.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\var\class2type.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\var\concat.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\var\hasOwn.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\var\indexOf.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\var\pnum.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\var\push.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\var\rnotwhite.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\var\slice.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\var\strundefined.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\var\support.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery\src\var\toString.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-placeholder\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-placeholder\demo.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-placeholder\jquery.placeholder.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-placeholder\LICENSE-MIT.txt \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-placeholder\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-placeholder\tests \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-placeholder\tests\index.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-placeholder\tests\tests.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\AUTHORS.txt \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\component.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\composer.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\MIT-LICENSE.txt \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\package.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.accordion.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.all.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.autocomplete.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.base.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.button.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.core.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.datepicker.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.dialog.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.menu.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.progressbar.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.resizable.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.selectable.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.slider.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.spinner.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.tabs.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.tooltip.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_flat_75_ffffff_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_glass_65_ffffff_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_glass_75_dadada_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-icons_222222_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-icons_2e83ff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-icons_454545_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-icons_888888_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-icons_cd0a0a_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.accordion.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.autocomplete.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.button.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.core.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.datepicker.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.dialog.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.menu.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.progressbar.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.resizable.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.selectable.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.slider.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.spinner.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.tabs.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.theme.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.tooltip.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_flat_0_aaaaaa_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_flat_75_ffffff_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_glass_55_fbf9ee_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_glass_65_ffffff_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_glass_75_dadada_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_glass_75_e6e6e6_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_glass_95_fef1ec_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_highlight-soft_75_cccccc_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-icons_222222_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-icons_2e83ff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-icons_454545_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-icons_888888_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-icons_cd0a0a_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_diagonals-thick_8_333333_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_flat_65_ffffff_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_glass_40_111111_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_glass_55_1c1c1c_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_highlight-hard_100_f9f9f9_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_highlight-hard_40_aaaaaa_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_highlight-soft_50_aaaaaa_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_inset-hard_45_cd0a0a_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_inset-hard_55_ffeb80_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-icons_222222_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-icons_4ca300_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-icons_bbbbbb_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-icons_ededed_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-icons_ffcf29_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_diagonals-thick_75_f3d8d8_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_dots-small_65_a6a6a6_2x2.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_flat_0_333333_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_flat_65_ffffff_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_flat_75_ffffff_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_glass_55_fbf8ee_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_highlight-hard_100_eeeeee_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_highlight-hard_100_f6f6f6_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_highlight-soft_15_cc0000_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-icons_004276_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-icons_cc0000_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_diagonals-thick_90_eeeeee_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_flat_15_cd0a0a_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_glass_100_e4f1fb_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_glass_50_3baae3_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_glass_80_d7ebf9_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_highlight-hard_100_f2f5f7_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_highlight-hard_70_000000_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_highlight-soft_100_deedf7_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_highlight-soft_25_ffef8f_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-icons_2694e8_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-icons_2e83ff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-icons_3d80b3_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-icons_72a7cf_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_flat_30_cccccc_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_flat_50_5c5c5c_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_glass_40_ffc73d_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_highlight-hard_20_0972a5_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_highlight-soft_33_003147_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_highlight-soft_35_222222_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_highlight-soft_44_444444_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_highlight-soft_80_eeeeee_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_loop_25_000000_21x21.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-icons_222222_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-icons_4b8e0b_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-icons_a83300_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-icons_cccccc_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_diagonals-thick_15_0b3e6f_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_dots-medium_30_0b58a2_4x4.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_dots-small_20_333333_2x2.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_dots-small_30_a32d00_2x2.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_dots-small_40_00498f_2x2.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_flat_0_aaaaaa_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_flat_40_292929_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_gloss-wave_20_111111_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-icons_00498f_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-icons_98d2fb_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-icons_9ccdfc_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_flat_0_aaaaaa_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_flat_0_eeeeee_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_flat_55_994d53_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_flat_55_fafafa_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_gloss-wave_30_3d3644_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_highlight-soft_100_dcd9de_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_highlight-soft_100_eae6ea_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_highlight-soft_25_30273a_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_highlight-soft_45_5f5964_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-icons_454545_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-icons_734d99_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-icons_8d78a5_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-icons_a8a3ae_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-icons_ebccce_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_diagonals-small_25_c5ddfc_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_diagonals-thick_20_e69700_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_diagonals-thick_22_1484e6_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_diagonals-thick_26_2293f7_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_flat_0_e69700_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_flat_0_e6b900_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_highlight-soft_100_f9f9f9_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_inset-hard_100_eeeeee_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-icons_0a82eb_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-icons_0b54d5_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-icons_5fa5e3_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-icons_fcdd4a_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_flat_0_aaaaaa_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_flat_0_eeeeee_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_flat_55_ffffff_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_flat_75_ffffff_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_glass_65_ffffff_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_highlight-soft_100_f6f6f6_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_highlight-soft_25_0073ea_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_highlight-soft_50_dddddd_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-icons_0073ea_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-icons_454545_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-icons_666666_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-icons_ff0084_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_diagonals-small_40_db4865_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_diagonals-small_50_93c3cd_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_diagonals-small_50_ff3853_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_diagonals-small_75_ccd232_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_dots-medium_80_ffff38_4x4.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_dots-small_35_35414f_2x2.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_flat_75_ba9217_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_flat_75_ffffff_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_white-lines_85_f7f7ba_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-icons_454545_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-icons_88a206_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-icons_c02669_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-icons_e1e463_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-icons_ffeb33_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_flat_75_aaaaaa_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_glass_100_f5f0e5_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_glass_25_cb842e_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_glass_70_ede4d4_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_highlight-hard_100_f4f0ec_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_highlight-hard_65_fee4bd_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_highlight-hard_75_f5f5b5_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_inset-soft_100_f4f0ec_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-icons_c47a23_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-icons_cb672b_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-icons_f08000_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-icons_f35f07_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-icons_ff7519_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_diagonals-small_0_aaaaaa_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_diagonals-thick_15_444444_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_diagonals-thick_95_ffdc2e_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_glass_55_fbf5d0_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_highlight-hard_30_285c00_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_highlight-soft_33_3a8104_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_highlight-soft_50_4eb305_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_highlight-soft_60_4ca20b_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_inset-soft_10_285c00_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-icons_4eb305_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-icons_72b42d_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-icons_cd0a0a_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_flat_0_aaaaaa_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_glass_15_5f391b_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_gloss-wave_20_1c160d_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_gloss-wave_25_453326_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_gloss-wave_30_44372c_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_highlight-soft_20_201913_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_highlight-soft_20_619226_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_inset-soft_10_201913_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-icons_222222_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-icons_9bcc60_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-icons_add978_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-icons_e3ddc9_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-icons_f1fd86_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_flat_0_aaaaaa_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_flat_0_eeeeee_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_flat_55_c0402a_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_flat_55_eeeeee_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_glass_100_f8f8f8_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_glass_35_dddddd_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_glass_60_eeeeee_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_inset-hard_75_999999_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_inset-soft_50_c9c9c9_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-icons_3383bb_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-icons_454545_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-icons_70b2e1_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-icons_999999_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-icons_fbc856_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_diagonal-maze_20_6e4f1c_10x10.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_diagonal-maze_40_000000_10x10.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_fine-grain_10_eceadf_60x60.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_fine-grain_10_f8f7f6_60x60.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_fine-grain_15_eceadf_60x60.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_fine-grain_15_f7f3de_60x60.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_fine-grain_15_ffffff_60x60.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_fine-grain_65_654b24_60x60.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_fine-grain_68_b83400_60x60.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-icons_222222_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-icons_3572ac_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-icons_8c291d_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-icons_b83400_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-icons_fbdb93_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_flat_0_aaaaaa_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_flat_55_fbec88_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_glass_75_d0e5f5_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_glass_85_dfeffc_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_glass_95_fef1ec_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_gloss-wave_55_5c9ccc_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_inset-hard_100_f5f8f9_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_inset-hard_100_fcfdfd_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-icons_217bc0_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-icons_2e83ff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-icons_469bdd_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-icons_6da8d5_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-icons_cd0a0a_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-icons_d8e7f3_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-icons_f9bd01_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_flat_0_aaaaaa_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_flat_75_ffffff_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_glass_55_fbf9ee_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_glass_65_ffffff_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_glass_75_dadada_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_glass_75_e6e6e6_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_glass_95_fef1ec_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_highlight-soft_75_cccccc_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-icons_222222_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-icons_2e83ff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-icons_454545_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-icons_888888_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-icons_cd0a0a_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_glass_55_fcf0ba_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_gloss-wave_100_ece8da_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_highlight-hard_100_f5f3e5_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_highlight-hard_100_fafaf4_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_highlight-hard_15_459e00_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_highlight-hard_95_cccccc_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_highlight-soft_25_67b021_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_highlight-soft_95_ffedad_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_inset-soft_15_2b2922_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-icons_808080_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-icons_847e71_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-icons_8DC262_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-icons_cd0a0a_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-icons_eeeeee_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_flat_55_999999_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_flat_75_aaaaaa_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_glass_45_0078ae_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_glass_55_f8da4e_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_glass_75_79c9ec_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_gloss-wave_45_e14f1c_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_gloss-wave_50_6eac2c_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_gloss-wave_75_2191c0_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_inset-hard_100_fcfdfd_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-icons_0078ae_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-icons_056b93_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-icons_d8e7f3_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-icons_e0fdff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-icons_f5e175_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-icons_f7a50d_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-icons_fcd113_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_diagonals-medium_20_d34d17_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_flat_30_cccccc_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_flat_50_5c5c5c_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_gloss-wave_45_817865_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_gloss-wave_60_fece2f_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_gloss-wave_70_ffdd57_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_gloss-wave_90_fff9e5_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_highlight-soft_100_feeebd_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_inset-soft_30_ffffff_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-icons_3d3d3d_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-icons_bd7b00_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-icons_d19405_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-icons_eb990f_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-icons_ed9f26_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-icons_fadc7a_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-icons_ffe180_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_diamond_10_4f4221_10x8.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_diamond_20_372806_10x8.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_diamond_25_675423_10x8.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_diamond_25_d5ac5d_10x8.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_diamond_8_261803_10x8.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_diamond_8_443113_10x8.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_flat_75_ddd4b0_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_highlight-hard_65_fee4bd_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-icons_070603_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-icons_e8e2b5_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-icons_e9cd86_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-icons_efec9f_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-icons_f2ec64_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-icons_f9f2bd_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-icons_ff7519_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_diagonals-small_50_262626_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_flat_0_303030_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_flat_0_4c4c4c_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_glass_40_0a0a0a_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_glass_55_f1fbe5_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_glass_60_000000_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_gloss-wave_55_000000_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_gloss-wave_85_9fda58_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_gloss-wave_95_f6ecd5_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-icons_000000_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-icons_1f1f1f_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-icons_9fda58_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-icons_b8ec79_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-icons_cd0a0a_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_flat_30_cccccc_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_flat_50_5c5c5c_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_glass_20_555555_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_glass_40_0078a3_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_glass_40_ffc73d_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_gloss-wave_25_333333_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_highlight-soft_80_eeeeee_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_inset-soft_25_000000_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_inset-soft_30_f58400_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-icons_222222_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-icons_4b8e0b_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-icons_a83300_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-icons_cccccc_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_diagonals-thick_18_b81900_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_diagonals-thick_20_666666_40x40.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_flat_10_000000_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_glass_100_f6f6f6_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_glass_100_fdf5ce_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_glass_65_ffffff_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_gloss-wave_35_f6a828_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_highlight-soft_100_eeeeee_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_highlight-soft_75_ffe45c_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-icons_222222_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-icons_228ef1_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-icons_ef8c08_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-icons_ffd27a_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-icons_ffffff_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\jquery-ui.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\jquery-ui.min.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\jquery.ui.theme.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\animated-overlay.gif \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_flat_0_aaaaaa_40x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_glass_95_fef1ec_1x400.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_gloss-wave_16_121212_500x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_highlight-hard_15_888888_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_highlight-hard_55_555555_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_highlight-soft_35_adadad_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_highlight-soft_60_dddddd_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_inset-soft_15_121212_1x100.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-icons_666666_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-icons_aaaaaa_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-icons_bbbbbb_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-icons_c98000_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-icons_cccccc_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-icons_cd0a0a_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-icons_f29a00_256x240.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery-ui.custom.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery-ui.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.accordion.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.autocomplete.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.button.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.core.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.datepicker.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.dialog.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.draggable.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.droppable.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-blind.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-bounce.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-clip.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-drop.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-explode.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-fade.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-fold.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-highlight.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-pulsate.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-scale.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-shake.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-slide.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-transfer.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.menu.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.mouse.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.position.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.progressbar.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.resizable.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.selectable.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.slider.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.sortable.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.spinner.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.tabs.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.tooltip.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.widget.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery-ui-i18n.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-af.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ar-DZ.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ar.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-az.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-be.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-bg.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-bs.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ca.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-cs.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-cy-GB.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-da.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-de.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-el.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-en-AU.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-en-GB.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-en-NZ.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-eo.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-es.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-et.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-eu.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-fa.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-fi.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-fo.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-fr-CA.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-fr-CH.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-fr.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-gl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-he.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-hi.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-hr.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-hu.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-hy.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-id.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-is.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-it.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ja.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ka.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-kk.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-km.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ko.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ky.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-lb.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-lt.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-lv.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-mk.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ml.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ms.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-nb.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-nl-BE.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-nl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-nn.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-no.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-pl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-pt-BR.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-pt.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-rm.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ro.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ru.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-sk.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-sl.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-sq.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-sr-SR.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-sr.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-sv.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ta.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-th.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-tj.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-tr.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-uk.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-vi.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-zh-CN.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-zh-HK.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-zh-TW.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery-ui.custom.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery-ui.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.accordion.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.autocomplete.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.button.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.core.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.datepicker.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.dialog.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.draggable.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.droppable.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-blind.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-bounce.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-clip.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-drop.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-explode.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-fade.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-fold.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-highlight.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-pulsate.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-scale.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-shake.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-slide.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-transfer.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.menu.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.mouse.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.position.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.progressbar.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.resizable.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.selectable.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.slider.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.sortable.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.spinner.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.tabs.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.tooltip.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.widget.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery-ui-i18n.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-af.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ar-DZ.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ar.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-az.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-be.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-bg.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-bs.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ca.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-cs.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-cy-GB.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-da.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-de.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-el.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-en-AU.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-en-GB.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-en-NZ.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-eo.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-es.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-et.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-eu.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-fa.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-fi.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-fo.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-fr-CA.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-fr-CH.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-fr.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-gl.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-he.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-hi.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-hr.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-hu.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-hy.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-id.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-is.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-it.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ja.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ka.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-kk.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-km.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ko.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ky.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-lb.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-lt.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-lv.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-mk.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ml.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ms.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-nb.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-nl-BE.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-nl.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-nn.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-no.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-pl.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-pt-BR.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-pt.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-rm.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ro.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ru.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-sk.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-sl.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-sq.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-sr-SR.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-sr.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-sv.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ta.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-th.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-tj.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-tr.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-uk.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-vi.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-zh-CN.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-zh-HK.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-zh-TW.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery.cookie\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\jquery.cookie\jquery.cookie.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\lodash\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\lodash\dist \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\lodash\LICENSE.txt \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\lodash\dist\lodash.compat.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\lodash\dist\lodash.compat.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\lodash\dist\lodash.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\lodash\dist\lodash.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\lodash\dist\lodash.underscore.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\lodash\dist\lodash.underscore.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\grunt.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\media \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\modernizr.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\readme.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\a-download.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\audio-audiodata-api.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\audio-webaudio-api.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\battery-api.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\battery-level.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\blob-constructor.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\canvas-todataurl-type.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\contenteditable.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\contentsecuritypolicy.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\contextmenu.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\cookies.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\cors.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-backgroundposition-shorthand.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-backgroundposition-xy.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-backgroundrepeat.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-backgroundsizecover.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-boxsizing.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-calc.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-cubicbezierrange.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-displayrunin.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-displaytable.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-filters.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-hyphens.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-lastchild.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-mask.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-mediaqueries.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-objectfit.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-overflow-scrolling.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-pointerevents.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-positionsticky.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-regions.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-remunit.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-resize.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-scrollbars.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-shapes.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-subpixelfont.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-supports.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-userselect.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-vhunit.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-vmaxunit.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-vminunit.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\css-vwunit.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\custom-protocol-handler.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\dart.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\dataview-api.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\dom-classlist.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\dom-createElement-attrs.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\dom-dataset.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\dom-microdata.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\elem-datalist.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\elem-details.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\elem-output.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\elem-progress-meter.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\elem-ruby.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\elem-time.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\elem-track.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\emoji.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\es5-strictmode.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\event-deviceorientation-motion.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\exif-orientation.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\file-api.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\file-filesystem.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\forms-fileinput.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\forms-formattribute.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\forms-inputnumber-l10n.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\forms-placeholder.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\forms-speechinput.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\forms-validation.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\fullscreen-api.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\gamepad.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\getusermedia.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\ie8compat.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\iframe-sandbox.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\iframe-seamless.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\iframe-srcdoc.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\img-apng.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\img-webp.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\json.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\lists-reversed.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\mathml.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\network-connection.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\network-eventsource.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\network-xhr2.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\notification.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\performance.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\pointerlock-api.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\quota-management-api.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\requestanimationframe.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\script-async.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\script-defer.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\style-scoped.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\svg-filters.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\unicode.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\url-data-uri.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\userdata.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\vibration.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\web-intents.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\webgl-extensions.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\websockets-binary.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\window-framed.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\workers-blobworkers.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\workers-dataworkers.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\feature-detects\workers-sharedworkers.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\media\Modernizr 2 Logo.ai \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\media\Modernizr 2 Logo.eps \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\media\Modernizr 2 Logo.pdf \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\media\Modernizr 2 Logo.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\media\Modernizr 2 Logo.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\basic.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\index.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\qunit \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\alpha.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\apng_test.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\before-after.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\form_validation.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\ga.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\green5x5.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\hashchange.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\jquery.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\mathml.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\mathml_ref.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\modernizr-1.7.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\png_alpha_result.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\pushstate.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\red30x30.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\ruby.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\stroked-text.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\style.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\svg-html-blur.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\svg-img.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\svg-img.svg.1 \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\svg_blur.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\table.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\text-shadow1.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\text-shadow2.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\Windsong-webfont.eot \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\Windsong-webfont.otf \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\Windsong-webfont.svg \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\Windsong-webfont.ttf \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\Windsong-webfont.woff \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\windsong_font.png \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\caniuse_files\xhtml.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\js\basic.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\js\dumpdata.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\js\lib \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\js\setup.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\js\unit-caniuse.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\js\unit.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\js\lib\detect-global.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\js\lib\jquery-1.7b2.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\js\lib\jsonselect.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\js\lib\polyfills.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\js\lib\uaparser.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\qunit\qunit.css \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\qunit\qunit.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\modernizr\test\qunit\run-qunit.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ngCordova\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ngCordova\CHANGELOG.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ngCordova\dist \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ngCordova\LICENSE \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ngCordova\package.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ngCordova\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ngCordova\dist\ng-cordova-mocks.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ngCordova\dist\ng-cordova-mocks.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ngCordova\dist\ng-cordova.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\ngCordova\dist\ng-cordova.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\bower.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\CHANGELOG.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\CONTRIBUTE.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\dist \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\Gruntfile.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\karma.conf.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\karma.underscore.conf.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\license.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\package.json \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\README.md \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\src \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\test \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\dist\restangular.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\dist\restangular.min.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\dist\restangular.zip \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\src\restangular.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\lib\restangular\test\restangularSpec.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\plugins\com.ionic.keyboard \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\plugins\org.apache.cordova.device \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\plugins\com.ionic.keyboard\www \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\plugins\com.ionic.keyboard\www\keyboard.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\plugins\org.apache.cordova.device\www \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\plugins\org.apache.cordova.device\www\device.js \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\templates\friend-detail.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\templates\tab-account.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\templates\tab-dash.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\templates\tab-friends.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\templates\tabs.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\history \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\logs \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\medications \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\profiles \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\schedules \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\shared \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\symptoms \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\history\diagnoses \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\history\history.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\history\immunizations.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\history\diagnoses\diagnoses.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\history\diagnoses\form.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\logs\blood-pressure.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\logs\bmr.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\logs\caloric-intake.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\logs\daily-calories.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\logs\logs.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\medications\form-edit.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\medications\form.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\medications\med-list.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\medications\medications.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\profiles\details.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\profiles\form-details.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\profiles\new-profile-form.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\profiles\profiles.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\schedules\event-list.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\schedules\form-edit.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\schedules\form.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\schedules\schedules.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\shared\app-nav.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\shared\BMI-small.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\shared\BMI.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\shared\login.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\shared\main.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\shared\register.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\assets\www\views\symptoms\symptoms.html \
-C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\AndroidManifest.xml \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\CordovaApp.ap_ \
+ : C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\res\drawable\icon.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\res\drawable-hdpi\icon.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\res\drawable-land-hdpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\res\drawable-land-ldpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\res\drawable-land-mdpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\res\drawable-land-xhdpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\res\drawable-ldpi\icon.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\res\drawable-mdpi\icon.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\res\drawable-port-hdpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\res\drawable-port-ldpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\res\drawable-port-mdpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\res\drawable-port-xhdpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\res\drawable-xhdpi\icon.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\res\values\strings.xml \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\res\xml\config.xml \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\res\drawable\icon.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\_where-is-www.txt \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\cordova.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\cordova_plugins.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\img \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\index.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\plugins \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\templates \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\css\animations.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\css\graphs.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\css\site.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\css\style.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\img\ionic.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\app.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\env.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\filters \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\services \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\auth \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\history \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\logs \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\medications \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\profiles \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\schedules \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\auth\loginCtrl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\auth\secure.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\history\dxSearchCtrl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\logs\bmiCtrl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\logs\bmrCtrl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\logs\bpCtrl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\logs\CaloricIntakeCtrl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\logs\DailyCaloriesCtrl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\medications\medicationsCtrl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\profiles\detailsCtrl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\profiles\profilesCtrl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\controllers\schedules\eventCtrl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\appNav.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\BMI.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\bmiSmall.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\details \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\history \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\logs \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\medications \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\newProfileForm.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\schedules \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\details\formDetails.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\history\addDiagnosis.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\history\diagnoses.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\history\editDiagnosis.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\logs\bloodPressure.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\logs\bmr.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\logs\caloricIntake.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\logs\dailyCalories.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\medications\addMed.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\medications\editMed.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\medications\medList.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\schedules\addEvent.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\schedules\editEvent.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\directives\schedules\eventList.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\filters\reverse.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\services\dailyMedService.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\services\enviromentService.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\services\firebase \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\services\icd9DataService.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\services\firebase\authService.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\js\services\firebase\firebaseService.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-animate \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-bootstrap \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-sanitize \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-calendar \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angularfire \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\collide \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\fastclick \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\firebase \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\firebase-simple-login \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\fullcalendar \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-placeholder \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery.cookie \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\lodash \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular\angular-csp.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular\angular.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular\angular.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular\angular.min.js.gzip \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular\angular.min.js.map \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-animate\angular-animate.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-animate\angular-animate.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-animate\angular-animate.min.js.map \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-animate\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-animate\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-bootstrap\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-bootstrap\ui-bootstrap-tpls.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-bootstrap\ui-bootstrap-tpls.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-bootstrap\ui-bootstrap.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-bootstrap\ui-bootstrap.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-sanitize\angular-sanitize.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-sanitize\angular-sanitize.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-sanitize\angular-sanitize.min.js.map \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-sanitize\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-sanitize\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-calendar\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-calendar\LICENSE \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-calendar\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-calendar\src \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-calendar\src\calendar.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\CHANGELOG.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\LICENSE \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\release \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\src \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\release\angular-ui-router.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\release\angular-ui-router.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\src\common.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\src\compat.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\src\resolve.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\src\state.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\src\stateDirectives.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\src\stateFilters.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\src\templateFactory.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\src\urlMatcherFactory.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\src\urlRouter.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\src\view.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\src\viewDirective.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angular-ui-router\src\viewScroll.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angularfire\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angularfire\CHANGELOG.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angularfire\dist \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angularfire\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angularfire\dist\angularfire.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\angularfire\dist\angularfire.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\fonts \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\grunt \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\Gruntfile.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\LICENSE \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\package.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist\css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist\fonts \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist\js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist\css\bootstrap-theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist\css\bootstrap-theme.css.map \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist\css\bootstrap-theme.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist\css\bootstrap.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist\css\bootstrap.css.map \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist\css\bootstrap.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.eot \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist\js\bootstrap.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\dist\js\bootstrap.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\fonts\glyphicons-halflings-regular.eot \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\fonts\glyphicons-halflings-regular.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\fonts\glyphicons-halflings-regular.ttf \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\fonts\glyphicons-halflings-regular.woff \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\grunt\bs-glyphicons-data-generator.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\grunt\bs-lessdoc-parser.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\grunt\bs-raw-files-generator.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\grunt\sauce_browsers.yml \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\js\affix.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\js\alert.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\js\button.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\js\carousel.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\js\collapse.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\js\dropdown.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\js\modal.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\js\popover.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\js\scrollspy.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\js\tab.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\js\tooltip.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\js\transition.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\alerts.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\badges.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\bootstrap.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\breadcrumbs.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\button-groups.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\buttons.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\carousel.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\close.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\code.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\component-animations.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\dropdowns.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\forms.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\glyphicons.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\grid.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\input-groups.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\jumbotron.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\labels.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\list-group.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\media.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\modals.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\navbar.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\navs.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\normalize.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\pager.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\pagination.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\panels.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\popovers.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\print.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\progress-bars.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\responsive-embed.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\responsive-utilities.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\scaffolding.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\tables.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\theme.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\thumbnails.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\tooltip.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\type.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\utilities.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\variables.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\wells.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\alerts.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\background-variant.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\border-radius.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\buttons.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\center-block.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\clearfix.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\forms.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\gradients.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\grid-framework.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\grid.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\hide-text.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\image.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\labels.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\list-group.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\nav-divider.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\nav-vertical-align.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\opacity.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\pagination.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\panels.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\progress-bar.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\reset-filter.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\resize.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\responsive-visibility.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\size.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\tab-focus.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\table-row.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\text-emphasis.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\text-overflow.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\bootstrap\less\mixins\vendor-prefixes.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\Chart.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\Chart.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\component.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\docs \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\LICENSE.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\readme.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\samples \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\site \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\docs\Chart.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\docs\index.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\docs\prettify.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\docs\prettify.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\docs\prettify.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\docs\styles.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\docs\styles.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\samples\bar.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\samples\doughnut.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\samples\line.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\samples\pie.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\samples\polarArea.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\samples\radar.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\samples\sixup.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\site\assets \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\site\index.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\site\styles.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\site\assets\6charts.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\site\assets\Chart.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\site\assets\effects.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\site\assets\excanvas.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\site\assets\html.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\chartjs\site\assets\simple.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\collide\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\collide\collide.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\collide\package.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\collide\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\collide\test \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\collide\test.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\collide\test\animator.spec.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\collide\test\core \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\collide\test\util \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\collide\test\core\timeline.spec.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\collide\test\util\simple-emitter.spec.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\fastclick\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\fastclick\lib \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\fastclick\LICENSE \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\fastclick\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\fastclick\lib\fastclick.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\firebase\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\firebase\firebase-debug.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\firebase\firebase.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\firebase\LICENSE \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\firebase\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\firebase-simple-login\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\firebase-simple-login\CHANGELOG.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\firebase-simple-login\firebase-simple-login-debug.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\firebase-simple-login\firebase-simple-login.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\firebase-simple-login\LICENSE \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\firebase-simple-login\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\fonts \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\css\font-awesome.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\css\font-awesome.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\fonts\fontawesome-webfont.eot \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\fonts\fontawesome-webfont.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\fonts\fontawesome-webfont.ttf \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\fonts\fontawesome-webfont.woff \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\fonts\FontAwesome.otf \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\less\bordered-pulled.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\less\core.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\less\extras.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\less\fixed-width.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\less\font-awesome.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\less\icons.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\less\larger.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\less\list.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\less\mixins.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\less\path.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\less\rotated-flipped.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\less\spinning.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\less\stacked.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\less\variables.less \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\scss\font-awesome.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\scss\_bordered-pulled.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\scss\_core.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\scss\_extras.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\scss\_fixed-width.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\scss\_icons.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\scss\_larger.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\scss\_list.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\scss\_mixins.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\scss\_path.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\scss\_rotated-flipped.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\scss\_spinning.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\scss\_stacked.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\font-awesome\scss\_variables.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\css\foundation.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\css\foundation.css.map \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\css\normalize.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\css\normalize.css.map \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\vendor \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.abide.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.accordion.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.alert.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.clearing.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.dropdown.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.equalizer.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.interchange.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.joyride.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.magellan.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.offcanvas.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.orbit.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.reveal.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.slider.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.tab.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.tooltip.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\foundation\foundation.topbar.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\vendor\fastclick.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\vendor\jquery.cookie.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\vendor\jquery.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\vendor\modernizr.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\js\vendor\placeholder.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\normalize.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\_functions.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\_settings.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_accordion.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_alert-boxes.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_block-grid.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_breadcrumbs.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_button-groups.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_buttons.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_clearing.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_dropdown-buttons.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_dropdown.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_flex-video.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_forms.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_global.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_grid.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_icon-bar.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_inline-lists.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_joyride.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_keystrokes.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_labels.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_magellan.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_offcanvas.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_orbit.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_pagination.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_panels.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_pricing-tables.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_progress-bars.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_range-slider.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_reveal.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_side-nav.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_split-buttons.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_sub-nav.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_switches.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_tables.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_tabs.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_thumbs.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_toolbar.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_tooltips.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_top-bar.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_type.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation\scss\foundation\components\_visibility.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\foundation-icons.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\foundation-icons.eot \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\foundation-icons.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\foundation-icons.ttf \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\foundation-icons.woff \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\index.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\_foundation-icons.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-address-book.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-alert.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-align-center.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-align-justify.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-align-left.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-align-right.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-anchor.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-annotate.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-archive.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrow-down.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrow-left.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrow-right.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrow-up.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrows-compress.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrows-expand.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrows-in.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-arrows-out.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-asl.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-asterisk.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-at-sign.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-background-color.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-battery-empty.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-battery-full.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-battery-half.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-bitcoin-circle.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-bitcoin.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-blind.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-bluetooth.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-bold.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-book-bookmark.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-book.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-bookmark.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-braille.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-burst-new.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-burst-sale.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-burst.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-calendar.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-camera.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-check.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-checkbox.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-clipboard-notes.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-clipboard-pencil.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-clipboard.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-clock.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-closed-caption.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-cloud.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-comment-minus.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-comment-quotes.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-comment-video.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-comment.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-comments.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-compass.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-contrast.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-credit-card.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-crop.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-crown.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-css3.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-database.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-die-five.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-die-four.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-die-one.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-die-six.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-die-three.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-die-two.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-dislike.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-dollar-bill.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-dollar.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-download.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-eject.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-elevator.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-euro.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-eye.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-fast-forward.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-female-symbol.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-female.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-filter.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-first-aid.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-flag.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-folder-add.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-folder-lock.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-folder.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-foot.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-foundation.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-graph-bar.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-graph-horizontal.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-graph-pie.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-graph-trend.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-guide-dog.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-hearing-aid.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-heart.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-home.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-html5.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-indent-less.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-indent-more.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-info.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-italic.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-key.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-laptop.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-layout.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-lightbulb.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-like.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-link.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-list-bullet.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-list-number.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-list-thumbnails.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-list.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-lock.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-loop.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-magnifying-glass.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-mail.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-male-female.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-male-symbol.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-male.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-map.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-marker.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-megaphone.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-microphone.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-minus-circle.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-minus.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-mobile-signal.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-mobile.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-monitor.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-mountains.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-music.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-next.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-no-dogs.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-no-smoking.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-add.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-copy.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-csv.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-delete.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-doc.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-edit.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-export-csv.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-export-doc.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-export-pdf.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-export.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-filled.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-multiple.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-pdf.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-remove.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page-search.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-page.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-paint-bucket.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-paperclip.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-pause.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-paw.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-paypal.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-pencil.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-photo.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-play-circle.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-play-video.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-play.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-plus.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-pound.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-power.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-previous.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-price-tag.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-pricetag-multiple.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-print.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-prohibited.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-projection-screen.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-puzzle.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-quote.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-record.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-refresh.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-results-demographics.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-results.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-rewind-ten.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-rewind.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-rss.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-safety-cone.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-save.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-share.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-sheriff-badge.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-shield.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-shopping-bag.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-shopping-cart.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-shuffle.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-skull.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-500px.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-adobe.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-amazon.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-android.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-apple.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-behance.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-bing.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-blogger.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-delicious.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-designer-news.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-deviant-art.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-digg.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-dribbble.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-drive.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-dropbox.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-evernote.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-facebook.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-flickr.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-forrst.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-foursquare.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-game-center.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-github.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-google-plus.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-hacker-news.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-hi5.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-instagram.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-joomla.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-lastfm.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-linkedin.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-medium.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-myspace.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-orkut.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-path.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-picasa.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-pinterest.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-rdio.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-reddit.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-skillshare.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-skype.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-smashing-mag.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-snapchat.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-spotify.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-squidoo.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-stack-overflow.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-steam.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-stumbleupon.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-treehouse.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-tumblr.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-twitter.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-vimeo.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-windows.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-xbox.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-yahoo.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-yelp.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-youtube.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-zerply.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-social-zurb.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-sound.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-star.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-stop.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-strikethrough.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-subscript.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-superscript.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-tablet-landscape.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-tablet-portrait.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-target-two.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-target.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-telephone-accessible.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-telephone.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-text-color.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-thumbnails.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-ticket.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torso-business.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torso-female.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torso.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torsos-all-female.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torsos-all.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torsos-female-male.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torsos-male-female.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-torsos.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-trash.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-trees.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-trophy.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-underline.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-universal-access.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-unlink.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-unlock.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-upload-cloud.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-upload.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-usb.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-video.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-volume-none.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-volume-strike.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-volume.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-web.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-wheelchair.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-widget.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-wrench.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-x-circle.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-x.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-yen.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-zoom-in.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\foundation-icon-fonts\svgs\fi-zoom-out.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\fullcalendar\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\fullcalendar\fullcalendar.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\fullcalendar\fullcalendar.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\fullcalendar\fullcalendar.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\fullcalendar\fullcalendar.print.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\fullcalendar\gcal.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\fullcalendar\Gruntfile.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\fonts \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\ionic.swipecards.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\version.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\css\ionic.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\css\ionic.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\css\ionic.swipecards.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\fonts\ionicons.eot \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\fonts\ionicons.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\fonts\ionicons.ttf \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\fonts\ionicons.woff \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\angular \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\angular-ui \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\ionic-angular.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\ionic-angular.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\ionic.bundle.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\ionic.bundle.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\ionic.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\ionic.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\angular\angular-animate.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\angular\angular-animate.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\angular\angular-resource.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\angular\angular-resource.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\angular\angular-sanitize.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\angular\angular-sanitize.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\angular\angular.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\angular\angular.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\angular-ui\angular-ui-router.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\js\angular-ui\angular-ui-router.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\ionic.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\ionicons \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_action-sheet.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_animations.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_backdrop.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_badge.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_bar.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_button-bar.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_button.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_checkbox.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_form.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_grid.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_items.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_list.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_loading.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_menu.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_mixins.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_modal.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_platform.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_popover.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_popup.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_progress.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_radio.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_range.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_reset.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_scaffolding.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_select.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_slide-box.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_split-pane.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_tabs.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_toggle.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_type.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_util.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\_variables.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\ionicons\ionicons.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-animation.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-font.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-icons.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-variables.scss \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\dist \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\MIT-LICENSE.txt \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\dist\jquery.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\dist\jquery.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\dist\jquery.min.map \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\ajax \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\ajax.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\attributes \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\attributes.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\callbacks.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\core \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\core.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\css.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\data \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\data.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\deferred.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\deprecated.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\dimensions.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\effects \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\effects.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\event \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\event.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\exports \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\intro.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\jquery.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\manipulation \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\manipulation.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\offset.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\outro.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\queue \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\queue.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\selector-native.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\selector-sizzle.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\selector.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\serialize.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\sizzle \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\traversing \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\traversing.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\var \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\wrap.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\ajax\jsonp.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\ajax\load.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\ajax\parseJSON.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\ajax\parseXML.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\ajax\script.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\ajax\var \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\ajax\xhr.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\ajax\var\nonce.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\ajax\var\rquery.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\attributes\attr.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\attributes\classes.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\attributes\prop.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\attributes\support.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\attributes\val.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\core\access.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\core\init.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\core\parseHTML.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\core\ready.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\core\var \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\core\var\rsingleTag.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\css\addGetHookIf.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\css\curCSS.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\css\defaultDisplay.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\css\hiddenVisibleSelectors.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\css\support.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\css\swap.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\css\var \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\css\var\cssExpand.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\css\var\getStyles.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\css\var\isHidden.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\css\var\rmargin.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\css\var\rnumnonpx.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\data\accepts.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\data\Data.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\data\var \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\data\var\data_priv.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\data\var\data_user.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\effects\animatedSelector.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\effects\Tween.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\event\alias.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\event\support.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\exports\amd.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\exports\global.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\manipulation\support.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\manipulation\var \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\manipulation\_evalUrl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\manipulation\var\rcheckableType.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\queue\delay.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\sizzle\dist \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\sizzle\dist\sizzle.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\sizzle\dist\sizzle.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\sizzle\dist\sizzle.min.map \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\traversing\findFilter.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\traversing\var \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\traversing\var\rneedsContext.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\var\arr.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\var\class2type.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\var\concat.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\var\hasOwn.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\var\indexOf.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\var\pnum.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\var\push.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\var\rnotwhite.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\var\slice.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\var\strundefined.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\var\support.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery\src\var\toString.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-placeholder\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-placeholder\demo.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-placeholder\jquery.placeholder.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-placeholder\LICENSE-MIT.txt \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-placeholder\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-placeholder\tests \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-placeholder\tests\index.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-placeholder\tests\tests.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\AUTHORS.txt \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\component.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\composer.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\MIT-LICENSE.txt \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\package.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.accordion.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.all.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.autocomplete.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.base.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.button.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.core.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.datepicker.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.dialog.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.menu.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.progressbar.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.resizable.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.selectable.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.slider.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.spinner.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.tabs.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\jquery.ui.tooltip.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_flat_75_ffffff_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_glass_65_ffffff_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_glass_75_dadada_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-icons_222222_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-icons_2e83ff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-icons_454545_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-icons_888888_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\images\ui-icons_cd0a0a_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.accordion.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.autocomplete.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.button.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.core.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.datepicker.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.dialog.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.menu.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.progressbar.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.resizable.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.selectable.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.slider.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.spinner.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.tabs.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.theme.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\jquery.ui.tooltip.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_flat_0_aaaaaa_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_flat_75_ffffff_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_glass_55_fbf9ee_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_glass_65_ffffff_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_glass_75_dadada_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_glass_75_e6e6e6_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_glass_95_fef1ec_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-bg_highlight-soft_75_cccccc_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-icons_222222_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-icons_2e83ff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-icons_454545_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-icons_888888_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\base\minified\images\ui-icons_cd0a0a_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_diagonals-thick_8_333333_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_flat_65_ffffff_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_glass_40_111111_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_glass_55_1c1c1c_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_highlight-hard_100_f9f9f9_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_highlight-hard_40_aaaaaa_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_highlight-soft_50_aaaaaa_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_inset-hard_45_cd0a0a_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-bg_inset-hard_55_ffeb80_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-icons_222222_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-icons_4ca300_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-icons_bbbbbb_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-icons_ededed_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-icons_ffcf29_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\black-tie\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_diagonals-thick_75_f3d8d8_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_dots-small_65_a6a6a6_2x2.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_flat_0_333333_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_flat_65_ffffff_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_flat_75_ffffff_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_glass_55_fbf8ee_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_highlight-hard_100_eeeeee_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_highlight-hard_100_f6f6f6_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-bg_highlight-soft_15_cc0000_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-icons_004276_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-icons_cc0000_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\blitzer\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_diagonals-thick_90_eeeeee_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_flat_15_cd0a0a_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_glass_100_e4f1fb_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_glass_50_3baae3_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_glass_80_d7ebf9_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_highlight-hard_100_f2f5f7_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_highlight-hard_70_000000_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_highlight-soft_100_deedf7_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-bg_highlight-soft_25_ffef8f_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-icons_2694e8_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-icons_2e83ff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-icons_3d80b3_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-icons_72a7cf_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\cupertino\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_flat_30_cccccc_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_flat_50_5c5c5c_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_glass_40_ffc73d_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_highlight-hard_20_0972a5_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_highlight-soft_33_003147_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_highlight-soft_35_222222_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_highlight-soft_44_444444_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_highlight-soft_80_eeeeee_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-bg_loop_25_000000_21x21.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-icons_222222_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-icons_4b8e0b_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-icons_a83300_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-icons_cccccc_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dark-hive\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_diagonals-thick_15_0b3e6f_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_dots-medium_30_0b58a2_4x4.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_dots-small_20_333333_2x2.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_dots-small_30_a32d00_2x2.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_dots-small_40_00498f_2x2.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_flat_0_aaaaaa_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_flat_40_292929_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-bg_gloss-wave_20_111111_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-icons_00498f_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-icons_98d2fb_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-icons_9ccdfc_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\dot-luv\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_flat_0_aaaaaa_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_flat_0_eeeeee_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_flat_55_994d53_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_flat_55_fafafa_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_gloss-wave_30_3d3644_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_highlight-soft_100_dcd9de_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_highlight-soft_100_eae6ea_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_highlight-soft_25_30273a_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-bg_highlight-soft_45_5f5964_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-icons_454545_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-icons_734d99_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-icons_8d78a5_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-icons_a8a3ae_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-icons_ebccce_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\eggplant\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_diagonals-small_25_c5ddfc_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_diagonals-thick_20_e69700_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_diagonals-thick_22_1484e6_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_diagonals-thick_26_2293f7_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_flat_0_e69700_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_flat_0_e6b900_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_highlight-soft_100_f9f9f9_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-bg_inset-hard_100_eeeeee_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-icons_0a82eb_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-icons_0b54d5_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-icons_5fa5e3_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-icons_fcdd4a_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\excite-bike\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_flat_0_aaaaaa_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_flat_0_eeeeee_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_flat_55_ffffff_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_flat_75_ffffff_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_glass_65_ffffff_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_highlight-soft_100_f6f6f6_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_highlight-soft_25_0073ea_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-bg_highlight-soft_50_dddddd_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-icons_0073ea_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-icons_454545_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-icons_666666_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-icons_ff0084_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\flick\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_diagonals-small_40_db4865_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_diagonals-small_50_93c3cd_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_diagonals-small_50_ff3853_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_diagonals-small_75_ccd232_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_dots-medium_80_ffff38_4x4.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_dots-small_35_35414f_2x2.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_flat_75_ba9217_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_flat_75_ffffff_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-bg_white-lines_85_f7f7ba_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-icons_454545_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-icons_88a206_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-icons_c02669_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-icons_e1e463_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-icons_ffeb33_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\hot-sneaks\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_flat_75_aaaaaa_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_glass_100_f5f0e5_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_glass_25_cb842e_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_glass_70_ede4d4_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_highlight-hard_100_f4f0ec_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_highlight-hard_65_fee4bd_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_highlight-hard_75_f5f5b5_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-bg_inset-soft_100_f4f0ec_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-icons_c47a23_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-icons_cb672b_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-icons_f08000_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-icons_f35f07_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-icons_ff7519_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\humanity\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_diagonals-small_0_aaaaaa_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_diagonals-thick_15_444444_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_diagonals-thick_95_ffdc2e_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_glass_55_fbf5d0_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_highlight-hard_30_285c00_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_highlight-soft_33_3a8104_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_highlight-soft_50_4eb305_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_highlight-soft_60_4ca20b_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-bg_inset-soft_10_285c00_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-icons_4eb305_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-icons_72b42d_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-icons_cd0a0a_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\le-frog\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_flat_0_aaaaaa_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_glass_15_5f391b_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_gloss-wave_20_1c160d_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_gloss-wave_25_453326_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_gloss-wave_30_44372c_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_highlight-soft_20_201913_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_highlight-soft_20_619226_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-bg_inset-soft_10_201913_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-icons_222222_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-icons_9bcc60_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-icons_add978_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-icons_e3ddc9_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-icons_f1fd86_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\mint-choc\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_flat_0_aaaaaa_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_flat_0_eeeeee_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_flat_55_c0402a_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_flat_55_eeeeee_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_glass_100_f8f8f8_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_glass_35_dddddd_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_glass_60_eeeeee_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_inset-hard_75_999999_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-bg_inset-soft_50_c9c9c9_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-icons_3383bb_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-icons_454545_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-icons_70b2e1_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-icons_999999_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\overcast\images\ui-icons_fbc856_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_diagonal-maze_20_6e4f1c_10x10.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_diagonal-maze_40_000000_10x10.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_fine-grain_10_eceadf_60x60.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_fine-grain_10_f8f7f6_60x60.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_fine-grain_15_eceadf_60x60.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_fine-grain_15_f7f3de_60x60.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_fine-grain_15_ffffff_60x60.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_fine-grain_65_654b24_60x60.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-bg_fine-grain_68_b83400_60x60.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-icons_222222_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-icons_3572ac_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-icons_8c291d_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-icons_b83400_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-icons_fbdb93_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\pepper-grinder\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_flat_0_aaaaaa_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_flat_55_fbec88_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_glass_75_d0e5f5_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_glass_85_dfeffc_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_glass_95_fef1ec_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_gloss-wave_55_5c9ccc_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_inset-hard_100_f5f8f9_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-bg_inset-hard_100_fcfdfd_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-icons_217bc0_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-icons_2e83ff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-icons_469bdd_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-icons_6da8d5_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-icons_cd0a0a_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-icons_d8e7f3_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\redmond\images\ui-icons_f9bd01_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_flat_0_aaaaaa_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_flat_75_ffffff_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_glass_55_fbf9ee_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_glass_65_ffffff_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_glass_75_dadada_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_glass_75_e6e6e6_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_glass_95_fef1ec_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-bg_highlight-soft_75_cccccc_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-icons_222222_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-icons_2e83ff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-icons_454545_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-icons_888888_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\smoothness\images\ui-icons_cd0a0a_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_glass_55_fcf0ba_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_gloss-wave_100_ece8da_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_highlight-hard_100_f5f3e5_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_highlight-hard_100_fafaf4_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_highlight-hard_15_459e00_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_highlight-hard_95_cccccc_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_highlight-soft_25_67b021_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_highlight-soft_95_ffedad_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-bg_inset-soft_15_2b2922_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-icons_808080_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-icons_847e71_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-icons_8DC262_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-icons_cd0a0a_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-icons_eeeeee_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\south-street\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_flat_55_999999_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_flat_75_aaaaaa_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_glass_45_0078ae_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_glass_55_f8da4e_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_glass_75_79c9ec_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_gloss-wave_45_e14f1c_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_gloss-wave_50_6eac2c_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_gloss-wave_75_2191c0_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-bg_inset-hard_100_fcfdfd_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-icons_0078ae_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-icons_056b93_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-icons_d8e7f3_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-icons_e0fdff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-icons_f5e175_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-icons_f7a50d_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\start\images\ui-icons_fcd113_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_diagonals-medium_20_d34d17_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_flat_30_cccccc_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_flat_50_5c5c5c_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_gloss-wave_45_817865_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_gloss-wave_60_fece2f_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_gloss-wave_70_ffdd57_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_gloss-wave_90_fff9e5_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_highlight-soft_100_feeebd_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-bg_inset-soft_30_ffffff_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-icons_3d3d3d_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-icons_bd7b00_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-icons_d19405_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-icons_eb990f_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-icons_ed9f26_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-icons_fadc7a_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\sunny\images\ui-icons_ffe180_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_diamond_10_4f4221_10x8.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_diamond_20_372806_10x8.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_diamond_25_675423_10x8.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_diamond_25_d5ac5d_10x8.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_diamond_8_261803_10x8.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_diamond_8_443113_10x8.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_flat_75_ddd4b0_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-bg_highlight-hard_65_fee4bd_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-icons_070603_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-icons_e8e2b5_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-icons_e9cd86_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-icons_efec9f_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-icons_f2ec64_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-icons_f9f2bd_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\swanky-purse\images\ui-icons_ff7519_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_diagonals-small_50_262626_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_flat_0_303030_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_flat_0_4c4c4c_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_glass_40_0a0a0a_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_glass_55_f1fbe5_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_glass_60_000000_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_gloss-wave_55_000000_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_gloss-wave_85_9fda58_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-bg_gloss-wave_95_f6ecd5_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-icons_000000_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-icons_1f1f1f_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-icons_9fda58_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-icons_b8ec79_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-icons_cd0a0a_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\trontastic\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_flat_30_cccccc_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_flat_50_5c5c5c_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_glass_20_555555_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_glass_40_0078a3_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_glass_40_ffc73d_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_gloss-wave_25_333333_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_highlight-soft_80_eeeeee_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_inset-soft_25_000000_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-bg_inset-soft_30_f58400_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-icons_222222_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-icons_4b8e0b_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-icons_a83300_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-icons_cccccc_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-darkness\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_diagonals-thick_18_b81900_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_diagonals-thick_20_666666_40x40.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_flat_10_000000_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_glass_100_f6f6f6_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_glass_100_fdf5ce_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_glass_65_ffffff_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_gloss-wave_35_f6a828_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_highlight-soft_100_eeeeee_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-bg_highlight-soft_75_ffe45c_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-icons_222222_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-icons_228ef1_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-icons_ef8c08_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-icons_ffd27a_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\ui-lightness\images\ui-icons_ffffff_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\jquery-ui.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\jquery-ui.min.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\jquery.ui.theme.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\animated-overlay.gif \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_flat_0_aaaaaa_40x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_glass_95_fef1ec_1x400.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_gloss-wave_16_121212_500x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_highlight-hard_15_888888_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_highlight-hard_55_555555_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_highlight-soft_35_adadad_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_highlight-soft_60_dddddd_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-bg_inset-soft_15_121212_1x100.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-icons_666666_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-icons_aaaaaa_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-icons_bbbbbb_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-icons_c98000_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-icons_cccccc_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-icons_cd0a0a_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\themes\vader\images\ui-icons_f29a00_256x240.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery-ui.custom.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery-ui.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.accordion.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.autocomplete.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.button.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.core.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.datepicker.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.dialog.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.draggable.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.droppable.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-blind.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-bounce.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-clip.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-drop.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-explode.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-fade.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-fold.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-highlight.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-pulsate.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-scale.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-shake.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-slide.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect-transfer.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.effect.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.menu.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.mouse.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.position.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.progressbar.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.resizable.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.selectable.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.slider.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.sortable.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.spinner.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.tabs.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.tooltip.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\jquery.ui.widget.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery-ui-i18n.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-af.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ar-DZ.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ar.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-az.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-be.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-bg.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-bs.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ca.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-cs.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-cy-GB.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-da.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-de.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-el.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-en-AU.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-en-GB.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-en-NZ.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-eo.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-es.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-et.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-eu.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-fa.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-fi.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-fo.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-fr-CA.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-fr-CH.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-fr.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-gl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-he.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-hi.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-hr.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-hu.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-hy.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-id.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-is.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-it.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ja.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ka.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-kk.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-km.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ko.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ky.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-lb.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-lt.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-lv.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-mk.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ml.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ms.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-nb.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-nl-BE.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-nl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-nn.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-no.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-pl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-pt-BR.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-pt.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-rm.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ro.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ru.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-sk.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-sl.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-sq.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-sr-SR.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-sr.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-sv.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-ta.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-th.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-tj.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-tr.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-uk.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-vi.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-zh-CN.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-zh-HK.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\i18n\jquery.ui.datepicker-zh-TW.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery-ui.custom.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery-ui.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.accordion.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.autocomplete.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.button.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.core.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.datepicker.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.dialog.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.draggable.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.droppable.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-blind.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-bounce.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-clip.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-drop.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-explode.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-fade.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-fold.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-highlight.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-pulsate.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-scale.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-shake.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-slide.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect-transfer.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.effect.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.menu.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.mouse.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.position.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.progressbar.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.resizable.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.selectable.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.slider.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.sortable.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.spinner.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.tabs.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.tooltip.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\jquery.ui.widget.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery-ui-i18n.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-af.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ar-DZ.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ar.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-az.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-be.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-bg.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-bs.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ca.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-cs.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-cy-GB.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-da.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-de.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-el.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-en-AU.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-en-GB.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-en-NZ.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-eo.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-es.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-et.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-eu.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-fa.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-fi.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-fo.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-fr-CA.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-fr-CH.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-fr.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-gl.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-he.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-hi.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-hr.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-hu.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-hy.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-id.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-is.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-it.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ja.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ka.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-kk.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-km.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ko.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ky.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-lb.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-lt.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-lv.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-mk.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ml.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ms.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-nb.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-nl-BE.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-nl.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-nn.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-no.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-pl.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-pt-BR.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-pt.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-rm.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ro.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ru.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-sk.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-sl.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-sq.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-sr-SR.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-sr.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-sv.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-ta.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-th.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-tj.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-tr.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-uk.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-vi.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-zh-CN.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-zh-HK.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery-ui\ui\minified\i18n\jquery.ui.datepicker-zh-TW.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery.cookie\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\jquery.cookie\jquery.cookie.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\lodash\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\lodash\dist \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\lodash\LICENSE.txt \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\lodash\dist\lodash.compat.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\lodash\dist\lodash.compat.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\lodash\dist\lodash.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\lodash\dist\lodash.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\lodash\dist\lodash.underscore.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\lodash\dist\lodash.underscore.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\grunt.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\media \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\modernizr.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\readme.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\a-download.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\audio-audiodata-api.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\audio-webaudio-api.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\battery-api.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\battery-level.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\blob-constructor.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\canvas-todataurl-type.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\contenteditable.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\contentsecuritypolicy.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\contextmenu.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\cookies.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\cors.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-backgroundposition-shorthand.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-backgroundposition-xy.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-backgroundrepeat.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-backgroundsizecover.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-boxsizing.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-calc.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-cubicbezierrange.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-displayrunin.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-displaytable.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-filters.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-hyphens.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-lastchild.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-mask.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-mediaqueries.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-objectfit.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-overflow-scrolling.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-pointerevents.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-positionsticky.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-regions.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-remunit.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-resize.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-scrollbars.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-shapes.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-subpixelfont.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-supports.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-userselect.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-vhunit.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-vmaxunit.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-vminunit.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\css-vwunit.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\custom-protocol-handler.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\dart.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\dataview-api.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\dom-classlist.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\dom-createElement-attrs.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\dom-dataset.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\dom-microdata.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\elem-datalist.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\elem-details.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\elem-output.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\elem-progress-meter.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\elem-ruby.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\elem-time.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\elem-track.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\emoji.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\es5-strictmode.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\event-deviceorientation-motion.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\exif-orientation.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\file-api.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\file-filesystem.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\forms-fileinput.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\forms-formattribute.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\forms-inputnumber-l10n.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\forms-placeholder.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\forms-speechinput.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\forms-validation.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\fullscreen-api.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\gamepad.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\getusermedia.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\ie8compat.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\iframe-sandbox.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\iframe-seamless.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\iframe-srcdoc.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\img-apng.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\img-webp.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\json.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\lists-reversed.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\mathml.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\network-connection.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\network-eventsource.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\network-xhr2.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\notification.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\performance.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\pointerlock-api.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\quota-management-api.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\requestanimationframe.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\script-async.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\script-defer.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\style-scoped.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\svg-filters.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\unicode.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\url-data-uri.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\userdata.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\vibration.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\web-intents.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\webgl-extensions.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\websockets-binary.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\window-framed.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\workers-blobworkers.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\workers-dataworkers.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\feature-detects\workers-sharedworkers.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\media\Modernizr 2 Logo.ai \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\media\Modernizr 2 Logo.eps \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\media\Modernizr 2 Logo.pdf \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\media\Modernizr 2 Logo.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\media\Modernizr 2 Logo.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\basic.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\index.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\qunit \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\alpha.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\apng_test.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\before-after.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\form_validation.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\ga.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\green5x5.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\hashchange.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\jquery.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\mathml.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\mathml_ref.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\modernizr-1.7.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\png_alpha_result.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\pushstate.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\red30x30.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\ruby.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\stroked-text.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\style.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\svg-html-blur.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\svg-img.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\svg-img.svg.1 \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\svg_blur.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\table.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\text-shadow1.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\text-shadow2.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\Windsong-webfont.eot \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\Windsong-webfont.otf \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\Windsong-webfont.svg \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\Windsong-webfont.ttf \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\Windsong-webfont.woff \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\windsong_font.png \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\caniuse_files\xhtml.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\js\basic.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\js\dumpdata.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\js\lib \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\js\setup.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\js\unit-caniuse.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\js\unit.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\js\lib\detect-global.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\js\lib\jquery-1.7b2.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\js\lib\jsonselect.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\js\lib\polyfills.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\js\lib\uaparser.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\qunit\qunit.css \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\qunit\qunit.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\modernizr\test\qunit\run-qunit.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\bower.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\CHANGELOG.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\CONTRIBUTE.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\dist \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\Gruntfile.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\karma.conf.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\karma.underscore.conf.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\license.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\package.json \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\README.md \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\src \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\test \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\dist\restangular.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\dist\restangular.min.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\dist\restangular.zip \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\src\restangular.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\lib\restangular\test\restangularSpec.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\plugins\com.ionic.keyboard \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\plugins\org.apache.cordova.device \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\plugins\com.ionic.keyboard\www \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\plugins\com.ionic.keyboard\www\keyboard.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\plugins\org.apache.cordova.device\www \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\plugins\org.apache.cordova.device\www\device.js \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\templates\friend-detail.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\templates\tab-account.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\templates\tab-dash.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\templates\tab-friends.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\templates\tabs.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\history \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\logs \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\medications \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\profiles \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\schedules \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\shared \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\symptoms \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\history\diagnoses \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\history\history.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\history\immunizations.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\history\diagnoses\diagnoses.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\history\diagnoses\form.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\logs\blood-pressure.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\logs\bmr.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\logs\caloric-intake.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\logs\daily-calories.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\logs\logs.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\medications\form-edit.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\medications\form.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\medications\med-list.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\medications\medications.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\profiles\details.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\profiles\form-details.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\profiles\new-profile-form.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\profiles\profiles.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\schedules\event-list.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\schedules\form-edit.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\schedules\form.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\schedules\schedules.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\shared\app-nav.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\shared\BMI-small.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\shared\BMI.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\shared\login.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\shared\main.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\shared\register.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\assets\www\views\symptoms\symptoms.html \
+C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\AndroidManifest.xml \
