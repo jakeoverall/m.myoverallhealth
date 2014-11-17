@@ -1,7 +1,8 @@
-﻿var myHealthApp = angular.module('myHealthApp', ['ionic', 'ui.bootstrap', 'ui.calendar', 'firebase', 'ui.router', 'restangular']);
+﻿var myHealthApp = angular.module('myHealthApp', ['ionic', 'ui.bootstrap', 'firebase', 'ui.router', 'restangular', 'ngCordova']);
 
 
-myHealthApp.run(function ($ionicPlatform) {
+myHealthApp.run(function ($ionicPlatform, $state) {
+
     $ionicPlatform.ready(function () {
         // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
         // for form inputs)
@@ -12,13 +13,28 @@ myHealthApp.run(function ($ionicPlatform) {
             // org.apache.cordova.statusbar required
             StatusBar.styleDefault();
         }
+        //modify the android hardware back button action
+        $ionicPlatform.registerBackButtonAction(function (event) {
+            debugger;
+            if ($state.current === "secure.main") {
+                alert('Exiting App');
+                navigator.app.exitApp();
+            }
+            else {
+                alert('going back?');
+                navigator.app.backHistory();
+            }
+        }, 100);
+
     });
 });
 
 
 //Routes
-myHealthApp.config(['$stateProvider', '$urlRouterProvider', function ($stateProvider, $urlRouterProvider) {
+myHealthApp.config(['$stateProvider', '$urlRouterProvider','$httpProvider', function ($stateProvider, $urlRouterProvider, $httpProvider) {
 
+    $httpProvider.defaults.useXDomain = true;
+    delete $httpProvider.defaults.headers.common['X-Requested-With'];
 
     $urlRouterProvider.otherwise('/login');
 
@@ -26,6 +42,11 @@ myHealthApp.config(['$stateProvider', '$urlRouterProvider', function ($stateProv
         .state('login', {
             url: '/login',
             templateUrl: 'views/shared/login.html',
+            controller: 'loginCtrl'
+        })
+        .state('register', {
+            url: '/register',
+            templateUrl: 'views/shared/register.html',
             controller: 'loginCtrl'
         })
         .state('secure', {
@@ -73,7 +94,13 @@ myHealthApp.config(['$stateProvider', '$urlRouterProvider', function ($stateProv
         })
         .state('secure.profile.schedules', {
             url: '/schedules',
-            templateUrl: 'views/schedules/schedules.html'
+            templateUrl: 'views/schedules/schedules.html',
+            controller: 'EventCtrl',
+            resolve: {
+                eventsRef: function(firebaseService, $stateParams){
+                    return firebaseService.getEvents($stateParams.userId, $stateParams.profileId);
+                }
+            }
         })
         .state('secure.profile.logs', {
             url: '/logs',

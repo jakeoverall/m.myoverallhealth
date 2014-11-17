@@ -5,23 +5,25 @@
     <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
 
     <title>My Overall Health</title>
+    <link href="css/animations.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="lib/ionic/css/ionic.swipecards.css">
     <link href="lib/foundation/css/normalize.css" rel="stylesheet" />
     <link href="lib/fullcalendar/fullcalendar.css" rel="stylesheet" />
     <link href="lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
     <link href="lib/font-awesome/css/font-awesome.css" rel="stylesheet" />
     <link href="lib/foundation/css/foundation.css" rel="stylesheet" />
     <link href="lib/foundation-icon-fonts/foundation-icons.css" rel="stylesheet" />
-    
+
     <link href="css/site.css" rel="stylesheet" />
     <link href="css/graphs.css" rel="stylesheet" />
-    <link href="css/animations.css" rel="stylesheet" />
 
     <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
     <link href="css/ionic.app.css" rel="stylesheet">
     -->
 </head>
 <body>
-    <div ui-view></div>
+    <ion-nav-view animate="slide-left-right"></ion-nav-view>
+    <div class="bottom-margin">.</div>
 
     <scipts>
         <!-- ionic/angularjs js -->
@@ -35,12 +37,9 @@
         <script type="text/javascript" src="lib/bootstrap/dist/js/bootstrap.js"></script>
         <script type="text/javascript" src="lib/angular-bootstrap/ui-bootstrap-tpls.js"></script>
         <script type="text/javascript" src="lib/foundation/js/foundation.min.js"></script>
-        <script type="text/javascript" src="lib/angular-ui-calendar/src/calendar.js"></script>
-        <script type="text/javascript" src="lib/fullcalendar/fullcalendar.js"></script>
-        <script type="text/javascript" src="lib/fullcalendar/gcal.js"></script>
         <script type="text/javascript" src="lib/lodash/dist/lodash.js"></script>
         <script type="text/javascript" src="lib/restangular/dist/restangular.js"></script>
-        <script type="text/javascript" src="lib/chartjs/Chart.js"></script>
+        <script type="text/javascript" src="lib/ionic/ionic.swipecards.js"></script>
 
         <!-- Firebase -->
         <script type="text/javascript" src="lib/angular-ui-router/release/angular-ui-router.js"></script>
@@ -56,17 +55,21 @@
         <script type="text/javascript" src="js/services/icd9DataService.js"></script>
         <script type="text/javascript" src="js/services/enviromentService.js"></script>
         <script type="text/javascript" src="js/services/firebase/authService.js"></script>
+        <script type="text/javascript" src="js/services/dailyMedService.js"></script>
 
         <!-- Controllers -->
         <script type="text/javascript" src="js/controllers/profiles/profilesCtrl.js"></script>
         <script type="text/javascript" src="js/controllers/profiles/detailsCtrl.js"></script>
         <script type="text/javascript" src="js/controllers/medications/medicationsCtrl.js"></script>
         <script type="text/javascript" src="js/controllers/history/dxSearchCtrl.js"></script>
-        <script type="text/javascript" src="js/controllers/schedule/scheduleCtrl.js"></script>
+        <script type="text/javascript" src="js/controllers/schedules/eventCtrl.js"></script>
         <script type="text/javascript" src="js/controllers/logs/bmiCtrl.js"></script>
         <script type="text/javascript" src="js/controllers/auth/loginCtrl.js"></script>
         <script type="text/javascript" src="js/controllers/auth/secure.js"></script>
         <script type="text/javascript" src="js/controllers/logs/bpCtrl.js"></script>
+        <script type="text/javascript" src="js/controllers/logs/bmrCtrl.js"></script>
+        <script type="text/javascript" src="js/controllers/logs/CaloricIntakeCtrl.js"></script>
+        <script type="text/javascript" src="js/controllers/logs/DailyCaloriesCtrl.js"></script>
 
         <!-- Directives -->
         <script type="text/javascript" src="js/directives/newProfileForm.js"></script>
@@ -81,8 +84,18 @@
         <script type="text/javascript" src="js/directives/history/addDiagnosis.js"></script>
         <script type="text/javascript" src="js/directives/history/editDiagnosis.js"></script>
         <script type="text/javascript" src="js/directives/logs/bloodPressure.js"></script>
+        <script type="text/javascript" src="js/directives/logs/bmr.js"></script>
+        <script type="text/javascript" src="js/directives/logs/caloricIntake.js"></script>
+        <script type="text/javascript" src="js/directives/logs/dailyCalories.js"></script>
+        <script type="text/javascript" src="js/directives/schedules/addEvent.js"></script>
+        <script type="text/javascript" src="js/directives/schedules/editEvent.js"></script>
+        <script type="text/javascript" src="js/directives/schedules/eventList.js"></script>
+        
+        <!-- Filters -->
+        <script type="text/javascript" src="js/filters/reverse.js"></script>
 
         <!-- cordova script (this will be a 404 during development) -->
+        <script type="text/javascript" src="lib/ngCordova/dist/ng-cordova.min.js"></script>
         <script src="cordova.js"></script>
 
     </scipts>

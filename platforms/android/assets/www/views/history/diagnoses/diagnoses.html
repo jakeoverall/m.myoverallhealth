@@ -1,26 +1,20 @@
 ﻿<div class="small-12 small-centered columns">
-    <table class="table table-responsive table-bordered">
-        <caption>Active Diagnoses</caption>
-        <tr>
-            <th class="col-sm-2">Onset</th>
-            <th class="col-sm-7">Diagnosis</th>
-            <th class="col-sm-7">Notes</th>
-            <th class="col-sm-2">Actions</th>
-        </tr>
-        <tr ng-repeat="dg in diagnoses">
-            <td>{{dg.onsetDate | date}}</td>
-            <td>{{dg.description}}</td>
-            <td>{{dg.notes}}</td>
-            <td>
-                <p class="btn-group">
-                    <a class="btn btn-success" href="" target="_blank" ng-href="{{dg.dxUrl}}"><i class="fa fa-clipboard"></i></a>
-                    <a class="btn btn-primary" href="" target="_blank" ng-click="setDx(dg)"><i class="fa fa-edit"></i></a>
-                    <a class="btn btn-danger" href="" target="_blank" ng-click="removeDx(dg)"><i class="fa fa-minus-square"></i></a>
-                </p>
-            </td>
-        </tr>
-    </table>
+
+    <h3>Active Medications</h3>
+    <div class="small-12 small-centered columns">
+        <div class="well" ng-repeat="dg in diagnoses">
+            <label>Diagnosis:</label>
+            <span>{{dg.description}} {{dg.onsetDate | date}}</span>
+            <br />
+            <span class="btn-group">
+                <a class="tiny button [secondary success success]" href="" target="_blank" ng-href="{{dg.dxUrl}}"><i class="fa fa-clipboard"></i></a>
+                <button class="tiny button" ng-click="setDx(dg)"><i class=" fa fa-edit"></i></button>
+                <button class="tiny button [secondary alert success]" ng-click="removeDx(dg)"><i class="fa fa-times"></i></button>
+            </span>
+        </div>
+    </div>
 </div>
+
 <div class="row">
     <div class="small-12">
         <div class="small-6 small-offset-4 columns">
@@ -31,7 +25,7 @@
         </div>
     </div>
 </div>
-<div class="small-12 small-centered columns margin-bottom">
+<div class="small-12 small-centered columns">
     <table class="table table-responsive table-bordered">
         <caption>Results</caption>
         <tr>
@@ -42,8 +36,8 @@
             <td>{{dx.description}}</td>
             <td>
                 <p class="btn-group">
-                    <a class="btn btn-success" href="" target="_blank" ng-href="{{dx.dxUrl}}"><i class="fa fa-clipboard"></i></a>
-                    <a class="btn btn-primary" href="" target="_blank" ng-click="setDx(dx)"><i class="fa fa-plus-square"></i></a>
+                    <a class="tiny button [secondary success success]" href="" target="_blank" ng-href="{{dx.dxUrl}}"><i class="fa fa-clipboard"></i></a>
+                    <a class="tiny button" href="" ng-click="setDx(dx)"><i class="fa fa-plus-square"></i></a>
                 </p>
             </td>
         </tr>

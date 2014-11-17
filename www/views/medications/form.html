@@ -3,28 +3,28 @@
     <form id="addMedicationForm" name="addMedicationForm" ng-submit="addMed()">
 
         <label for="name">Name:</label>
-        <input class="form-control" type="text" ng-model="name" id="name" placeholder="Example: Tylenol" ng-keyup="findMed()" required />
+        <input class="form-control" type="text" ng-model="med.name" id="name" typeahead="drug for drug.drug_name in listOfMeds | limitTo:20" typeahead-loading="loading" placeholder="Example: Tylenol" ng-keyup="findMed(med)" required />
 
         <label for="strength">Strength</label>
-        <input class="form-control" type="text" ng-model="strength" id="strength" placeholder="Example: 10MG" />
+        <input class="form-control" type="text" ng-model="med.strength" id="strength" placeholder="Example: 10MG" />
 
         <label for="quantity">Quantity</label>
-        <input class="form-control" type="text" ng-model="quantity" id="quantity" placeholder="Example: 1-2 Tab(s)" />
+        <input class="form-control" type="text" ng-model="med.quantity" id="quantity" placeholder="Example: 1-2 Tab(s)" />
 
         <label for="route">Route</label>
-        <select class="form-control" id="route" ng-model="route" ng-options="route for route in routes"></select>
+        <select class="form-control" id="route" ng-model="med.route" ng-options="route for route in routes"></select>
 
         <label for="frequency">Frequency</label>
-        <input class="form-control" type="text" ng-model="frequency" id="frequency" placeholder="Example: Twice Daily" />
+        <input class="form-control" type="text" ng-model="med.frequency" id="frequency" placeholder="Example: Twice Daily" />
 
         <label for="startDate">Start Date</label>
-        <input class="form-control" placeholder="YYYY-MM-DD" ng-model="startDate" id="startDate" />
+        <input class="form-control" placeholder="YYYY-MM-DD" ng-model="med.startDate" id="startDate" />
 
         <label for="rxNumber">Prescription Number</label>
-        <input class="form-control" type="text" ng-model="rxNumber" id="rxNumber" placeholder="Example: X34521BC1" />
+        <input class="form-control" type="text" ng-model="med.rxNumber" id="rxNumber" placeholder="Example: X34521BC1" />
 
         <label for="notes">Notes</label>
-        <input class="form-control" type="text" ng-model="notes" id="notes" placeholder="Example: Take as needed for breakthough pain" />
+        <textarea class="form-control" type="text" ng-model="med.notes" id="notes" placeholder="Example: Take as needed for breakthough pain" rows="4"></textarea>
 
         <div class="button-bar">
             <ul class="button-group">

@@ -56,10 +56,10 @@ angular.module('myHealthApp')
       return {
           getUser: getUser,
 
-          logIn: function (email, password) {
+          logIn: function (user) {
               return firebaseSimpleLogin.$login('password', {
-                  email: email,
-                  password: password,
+                  email: user.username,
+                  password: user.password,
                   rememberMe: true // Override default session length (browser session) to be 30 days.
               });
           },

@@ -10,6 +10,16 @@ myHealthApp.controller('detailsCtrl', ['$scope', '$stateParams', '$location', 'p
         $scope.edit = !$scope.edit;
     };
     
+    var calculateAge = function(date){
+        if(date){
+            date = new Date(date);
+        } else {
+            date = new Date($scope.profile.dob);
+        }
+        var now = new Date().getTime();
+        var diff = now - date.getTime();
+        $scope.profile.age = Math.floor(diff / (1000 * 60 * 60 * 24 * 365.25));
+    }
     var getGenderClass = function () {
         if ($scope.profile.gender === 'Male') {
             $scope.genderBtn = 'btn btn-primary btn-sm';
@@ -29,6 +39,7 @@ myHealthApp.controller('detailsCtrl', ['$scope', '$stateParams', '$location', 'p
     $scope.saveDetails = function () {
         getGenderClass();
         calculateBMI($scope.profile.weight);
+        calculateAge($scope.profile.dob);
         $scope.profile.$save();
         $scope.showForm();
     };

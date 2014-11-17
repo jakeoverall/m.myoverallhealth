@@ -20,6 +20,7 @@
     border: 1px solid black;
     transition-property: all;
     transition-duration: .5s;
+    margin-left: -30px;
 }
 
 .indicators {
@@ -47,7 +48,7 @@
 .drop-char {
     float: left;
     color: #903;
-    font-size: 75px;
+    font-size: 40px;
     line-height: 60px;
     padding-top: 4px;
     padding-right: 8px;

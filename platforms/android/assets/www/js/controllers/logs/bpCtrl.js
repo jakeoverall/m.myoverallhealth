@@ -4,17 +4,34 @@ myHealthApp.controller('bpCtrl', ['$scope', 'firebaseService', function ($scope,
     var bps = firebaseService.getBps($scope.username.id, $scope.profile.$id).$asArray();
 
     $scope.bps = bps;
+    $scope.limit = -5;
+    $scope.hide = true;
+    $scope.changeLimit = function(){
+        if($scope.limit < 0){
+            $scope.hide = false;
+            $scope.limit = 100000;
+        } else {
+            $scope.hide = true;
+            $scope.limit = -5;
+        }
+    }
 
-    $scope.add = function () {
-        var bp = {};
-        bp.sys = $scope.sys;
-        bp.dia = $scope.dia;
-        bp.time = $scope.time || new Date().toISOString();
-
+    $scope.add = function (bp) {
+        if(bp.sys && bp.dia){
+            if(bp.sys >= 150 || bp.sys <= 90 || bp.dia >= 80 || bp.dia <= 40){
+                bp.warning = true;
+            }
+        $scope.hide = true;
+        bp.time = new Date().toISOString();
         $scope.bps.$add(bp);
-
-        $scope.sys = '';
-        $scope.dia = '';
-        $scope.time = '';
+        $scope.bp = '';
+        }
+    };
+    $scope.cancel = function(){
+        $scope.changeLimit();
+        $scope.bp = '';
+    }
+    $scope.removeBp = function(bp) {
+        $scope.bps.$remove(bp);
     };
 }]);

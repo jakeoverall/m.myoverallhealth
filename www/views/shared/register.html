@@ -1,0 +1,24 @@
+<ion-view title="Register" on-swipe="showRegistration()">
+  <ion-content>
+    <nav class="tab-bar">
+      <section class="middle tab-bar-section">
+        <h1 class="title">Register</h1>
+      </section>
+    </nav>
+    <div class="small-12 columns">    
+      <form name="registerForm" class="form-horizontal" ng-submit="register()">
+        <label for="registerUsername">Username:</label>
+        <input class="form-control" id="registerUsername" ng-model="registerUsername" required />
+
+        <label for="registerPassword">Password:</label>
+        <input class="form-control" type="password" id="registerPassword" ng-model="registerPassword" required />
+
+        <label for="repeatPassword">Verify Password:</label>
+        <input class="form-control" type="password" id="repeatPassword" ng-model="repeatPassword" required />
+
+        <button ng-disabled="loginForm.$invalid" class="button expand" type="submit">Register</button>
+        <button class="button expand secondary" ng-click="showRegistration()">Login</button>
+      </form>
+    </div>
+  </ion-content>
+</ion-view>

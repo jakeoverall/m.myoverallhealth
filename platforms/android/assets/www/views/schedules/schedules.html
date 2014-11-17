@@ -1,8 +1,11 @@
 ﻿<div app-nav></div>
-<div class="content">
-    <div class="col-lg-10" ng-controller="scheduleCtrl">
 
-        <div id="calendar" ui-calendar="uiConfig.calendar" class="span8 calendar" ng-model="eventSources"></div>
 
-    </div>
+<div class="small-12">
+    <button class="button large expand" ng-click="showForm()">New Event</button>
+    <div add-event ng-if="formShow"></div>
+    <br />
+
+    <div event-list ng-show="!formShow"></div>
+
 </div>

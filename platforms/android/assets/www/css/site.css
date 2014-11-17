@@ -1,6 +1,14 @@
 body {
   background-color: silver; }
-
+h3 {
+  font-size: 18px;
+}
+h2 {
+  font-size: 16px;
+}
+h2 i {
+  font-size: 14px;
+}
 a {
     color: #fff;
     text-decoration: none;
@@ -102,6 +110,77 @@ a:hover {
   background-color: darkgreen; }
 .immunizations table tr td:hover {
   background-color: blue; }
-.margin-bottom {
+.bottom-margin {
     margin-bottom: 100px;
+    text-indent: -99999px;
+}
+
+.event {
+    padding: 8px;
+    margin: 10px 5px 5px 5px;
+    font-family: Georgia;
+    min-height: 100px;
+    background-color: #fff;
+    color: #5c5c5c;
+}
+.event-date {
+  float: left;
+  width: 80px;
+  padding: 5px;
+  margin-right: 10px;
+  border-right: 1px solid #ccc;
+  cursor: pointer;
+  text-align: center;
+}
+.event-date b {
+  text-transform: uppercase;
+  font-size: 16px;
+  padding-top: 11px;
+  color: #008CBA;
+}
+.event-date p {
+  font-size: 35px;
+  color: #903;
+}
+.event-details {
+  display: inline;
+}
+.event-details b {
+  text-transform: uppercase;
+  font-size: 20px;
+  padding-top: 11px;
+}
+.event-remove {
+  float: right;
+  margin: 3px;
+  color: #5c5c5c;
+  text-decoration: none;
+}
+.event-remove:hover {
+  color: #222;
+}
+.alert{
+  font-size: 14px;
+}
+.bmr {
+  font-size: 30px;
+}
+.week-header {
+  text-align: center;
+}
+.week-header i {
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.button-new {
+  transition: none;
+}
+.center-text {
+  text-align: center;
+}
+
+.selectable.active {
+  background-color: #32e55c;
+  border: 1px solid #20a03e;
 }

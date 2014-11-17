@@ -23,6 +23,24 @@
                         {
                             "xml": "<feature name=\"Cookies\"><param name=\"android-package\" value=\"com.bez4pieci.cookies.Cookies\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Calendar\"><param name=\"android-package\" value=\"nl.xservices.plugins.Calendar\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "AndroidManifest.xml": {
+                "parents": {
+                    "/manifest": [
+                        {
+                            "xml": "<uses-permission android:name=\"android.permission.READ_CALENDAR\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<uses-permission android:name=\"android.permission.WRITE_CALENDAR\" />",
+                            "count": 1
                         }
                     ]
                 }
@@ -43,6 +61,9 @@
             "PACKAGE_NAME": "com.ionicframework.myoverallhealth449709"
         },
         "com.bez4pieci.cookies": {
+            "PACKAGE_NAME": "com.ionicframework.myoverallhealth449709"
+        },
+        "nl.x-services.plugins.calendar": {
             "PACKAGE_NAME": "com.ionicframework.myoverallhealth449709"
         }
     },

@@ -1,13 +1,9 @@
 ﻿<div app-nav></div>
 
 
-<div class="small-12">
-    <button class="button large expand" ng-click="showForm()">New Medication</button>
+<div>
+    <button class="button large expand button-new" ng-click="showForm()" ng-show="showNew">New Medication</button>
     <div add-med ng-show="formShow"></div>
     <br />
-
     <div med-list ng-show="!formShow"></div>
-
 </div>
-
-

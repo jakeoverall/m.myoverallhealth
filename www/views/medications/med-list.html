@@ -1,7 +1,8 @@
-﻿<div edit-med ng-show="editForm"></div>
+﻿<div class="small-12 small-centered columns">
+<div edit-med ng-show="editForm"></div>
 <div ng-show="!editForm">
-    <h3>Active Medications</h3>
-    <div class="small-12 small-centered columns">
+    <div class="alert-box success">Active Medications</div>
+    <div>
         <div class="well" ng-repeat="med in medications | filter:{active: true}">
             <label>Drug:</label>
             <span>{{med.name}} {{med.strength}}</span>
@@ -14,7 +15,7 @@
         </div>
     </div>
     <hr />
-    <h3>Discontinued Medications</h3>
+    <div class="alert-box alert">Discontinued Medications</div>
     <div class="small-12 small-centered columns">
         <div class="well" ng-repeat="med in medications | filter:{active: false}">
             <label>Drug:</label>
@@ -26,4 +27,5 @@
             </span>
         </div>
     </div>
+</div>
 </div>

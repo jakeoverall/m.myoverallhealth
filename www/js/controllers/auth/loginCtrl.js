@@ -3,10 +3,14 @@
 angular.module('myHealthApp')
   .controller('loginCtrl', function ($scope, $state, authService) {
 
-      $scope.reg = false;
+      var reg = $state.current.name;
 
       $scope.showRegistration = function() {
-          $scope.reg = !$scope.reg;
+          if(reg === 'register'){
+            $state.go('login');
+          } else {
+            $state.go('register');
+          }
       };
 
       $scope.register = function () {
@@ -20,8 +24,8 @@ angular.module('myHealthApp')
           }
       };
 
-      $scope.logMeIn = function () {
-          authService.logIn($scope.username, $scope.password).then(function () {
+      $scope.logMeIn = function (user) {
+          authService.logIn(user).then(function (res) {
               $state.go('secure.main');
           });
       };

@@ -5,39 +5,35 @@
     </h3>
 </accordion-heading>
 <div>
-    <b ng-if="message">{{message}}</b>
-    <b class="bp-warning" ng-if="message">{{error}}</b>
+    <div ng-if="message" class="alert alert-warning">{{message}}</div>
+    <div ng-if="error" class="alert alert-danger">{{error}}</div>
     <a class="button large expand button-new" ng-click="showForm()" ng-show="!show"><i class="fa fa-plus-square-o"></i> New</a>
-    <div class="row animate-show" ng-show="show">
-        <div class="small-12 columns">
-            <input class="form-control" type="number" placeholder="Calories" ng-model="day.calories" />
-            <br />
-            <input type="date" class="form-control" placeholder="MM/DD/YYYY" ng-model="day.date" />
-            <br />
-            <button class="button small" ng-click="addDailyCalories(day)">Add</button>
-            <button class="button [secondary alert success] small" ng-click="cancel()">Cancel</button>
-        </div>
+    <div class="row center-text" ng-show="show">
+        <input class="form-control" type="number" placeholder="Calories" ng-model="day.calories" />
+        <br />
+        <input type="date" class="form-control" placeholder="MM/DD/YYYY" ng-model="day.date" />
+        <br />
+        <button class="button small" ng-click="addDailyCalories(day)">Add</button>
+        <button class="button [secondary alert success] small" ng-click="cancel()">Cancel</button>
     </div>
 </div>
-<div class="panel panel-info">
-    <div class="panel-header">
-        <h2 class="week-header"><i class="fa fa-chevron-left pull-left" ng-click="changeWeek()"></i> Week {{week}} <i class="fa fa-chevron-right pull-right" ng-click="changeWeek(true)"></i></a></h2>
+    <div>
+        <h2 class="week-header"><i class="fa fa-chevron-left pull-left touch-area" ng-click="changeWeek()"></i> Week {{week}} <i class="fa fa-chevron-right pull-right touch-area" ng-click="changeWeek(true)"></i></a></h2>
     </div>
-    <div class="panel-body">
+    <div>
         <div class="alert alert-success"><span>SWC: <b class='pull-right'> {{swc}}</b></span></div>
         <div class="alert" ng-class="{'alert-success': !weeklyDeficit, 'alert-danger': weeklyDeficit}"><span>Total Calories: <b class='pull-right'> {{weeklyTotal}}</b></span></div>
         <div class="alert" ng-class="{'alert-success': !weeklyDeficit, 'alert-danger': weeklyDeficit}"><span>Remaining Calories: <b class="pull-right" ng-class="{'bp-warning': weeklyDeficit }"> {{diff}}</b></span></div>
     </div>
-</div>
 <br />
-<h3>Calories</h3>
+<h3>Weekly Calorie Intake</h3>
 <div class="alert" ng-repeat="day in thisWeek | limitTo: limit | orderBy: 'day': true" ng-class="{'alert-info': !day.overLimit, 'alert-warning': day.overLimit}" ng-if="!day.hide">
-<span>calories {{day.date | date: 'MMM, dd'}}: <b class="pull-right">{{day.calories}} <i class="fa fa-times" ng-click="removeDay(day, $index)"></i></span>
+<span>Calories {{day.date | date: 'MMM, dd'}}: <b class="pull-right">{{day.calories}} <i class="fa fa-times touch-area" ng-click="removeDay(day, $index)"></i></span>
 </div>
 <hr />
 
 <div class="row">
-    <div class="small-12 small-centered columns">
+    <div>
         <p><span class="drop-char">SWC</span> "Your Suggested Weekly Calories comes from you weight goal and fitness level as calculated by The Harris Benedict Equation. Tracking daily caloric intake is a smart way to help keep you on track to achieve your weight goals."</p>
     </div>
 </div>

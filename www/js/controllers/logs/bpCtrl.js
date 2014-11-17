@@ -31,4 +31,7 @@ myHealthApp.controller('bpCtrl', ['$scope', 'firebaseService', function ($scope,
         $scope.changeLimit();
         $scope.bp = '';
     }
+    $scope.removeBp = function(bp) {
+        $scope.bps.$remove(bp);
+    };
 }]);

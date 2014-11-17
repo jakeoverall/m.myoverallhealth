@@ -2,6 +2,7 @@
 
 
 myHealthApp.run(function ($ionicPlatform, $state) {
+
     $ionicPlatform.ready(function () {
         // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
         // for form inputs)
@@ -12,19 +13,19 @@ myHealthApp.run(function ($ionicPlatform, $state) {
             // org.apache.cordova.statusbar required
             StatusBar.styleDefault();
         }
-    });
-    //modify the android hardware back button action
-    $ionicPlatform.registerBackButtonAction(function (event) {
-        if ($state.current === "secure.main") {
-            alert('Exiting App');
-            navigator.app.exitApp();
-        }
-        else {
-            alert('going back?');
-            navigator.app.backHistory();
-        }
-    }, 100);
+        //modify the android hardware back button action
+        $ionicPlatform.registerBackButtonAction(function (event) {
+            if ($state.current === "secure.main") {
+                if(confirm('Are you sure you want to close the app?')){
+                    navigator.app.exitApp();
+                }
+            }
+            else {
+                navigator.app.backHistory();
+            }
+        }, 100);
 
+    });
 });
 
 
@@ -40,6 +41,11 @@ myHealthApp.config(['$stateProvider', '$urlRouterProvider','$httpProvider', func
         .state('login', {
             url: '/login',
             templateUrl: 'views/shared/login.html',
+            controller: 'loginCtrl'
+        })
+        .state('register', {
+            url: '/register',
+            templateUrl: 'views/shared/register.html',
             controller: 'loginCtrl'
         })
         .state('secure', {

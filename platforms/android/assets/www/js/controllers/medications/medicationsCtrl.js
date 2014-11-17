@@ -1,11 +1,17 @@
 ﻿var myHealthApp = angular.module('myHealthApp');
 
-myHealthApp.controller('medicationsCtrl', ['$scope', 'firebaseService', function ($scope, firebaseService) {
-    
+myHealthApp.controller('medicationsCtrl', ['$scope', 'firebaseService', 'dailyMedService', function ($scope, firebaseService, dailyMedService) {
+
     var medications = firebaseService.getMedications($scope.username.id, $scope.profile.$id).$asArray();
 
     $scope.medications = medications;
-    
+
+    $scope.findMed = function () {
+        if ($scope.name.length > 2) {
+            dailyMedService.find($scope.name);
+        }
+    };
+
     ////---------------------------------New Medication----------------------------------------
     $scope.formShow = false;
     $scope.showForm = function () {
@@ -39,13 +45,13 @@ myHealthApp.controller('medicationsCtrl', ['$scope', 'firebaseService', function
         $scope.formShow = false;
     };
 
-    //---------------------------------Edit Medication---------------------------------------------------------------------------
+    //---------------------------------Edit Medication------------------------------------------------
 
     $scope.editForm = false;
-    
+
     $scope.updateMed = function (med) {
         $scope.med = med;
-        $scope.editForm = true;        
+        $scope.editForm = true;
     };
 
     $scope.editMed = function () {
