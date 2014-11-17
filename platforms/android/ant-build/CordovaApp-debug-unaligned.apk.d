@@ -1,4 +1,4 @@
-C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\CordovaApp-debug-unaligned.apk : \
-C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\CordovaApp.ap_ \
-C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\ant-build\classes.dex \
-C:\Users\overall\Development\projects\ionic\m.myoverallhealth\platforms\android\CordovaLib\ant-build\classes.jar \
+C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\CordovaApp-debug-unaligned.apk : \
+C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\CordovaApp.ap_ \
+C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\ant-build\classes.dex \
+C:\Users\overall\Development\projects\ionic\My Overall Health\platforms\android\CordovaLib\ant-build\classes.jar \

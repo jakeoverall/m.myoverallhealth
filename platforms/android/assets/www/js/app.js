@@ -1,4 +1,4 @@
-﻿var myHealthApp = angular.module('myHealthApp', ['ionic', 'ui.bootstrap', 'firebase', 'ui.router', 'restangular', 'ngCordova']);
+﻿var myHealthApp = angular.module('myHealthApp', ['ionic', 'ui.bootstrap', 'firebase', 'ui.router', 'restangular']);
 
 
 myHealthApp.run(function ($ionicPlatform, $state) {
@@ -15,7 +15,6 @@ myHealthApp.run(function ($ionicPlatform, $state) {
         }
         //modify the android hardware back button action
         $ionicPlatform.registerBackButtonAction(function (event) {
-            debugger;
             if ($state.current === "secure.main") {
                 alert('Exiting App');
                 navigator.app.exitApp();

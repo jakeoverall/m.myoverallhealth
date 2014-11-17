@@ -1,7 +1,7 @@
 {
-  "name": "ionic-project",
+  "name": "my-overall-health",
   "version": "1.0.0",
-  "description": "An Ionic project",
+  "description": "My Overall Health: An Ionic project",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^0.7.1",

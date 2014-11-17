@@ -15,32 +15,6 @@
                         {
                             "xml": "<feature name=\"Device\"><param name=\"android-package\" value=\"org.apache.cordova.device.Device\" /></feature>",
                             "count": 1
-                        },
-                        {
-                            "xml": "<feature name=\"InAppBrowser\"><param name=\"android-package\" value=\"org.apache.cordova.inappbrowser.InAppBrowser\" /></feature>",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<feature name=\"Cookies\"><param name=\"android-package\" value=\"com.bez4pieci.cookies.Cookies\" /></feature>",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<feature name=\"Calendar\"><param name=\"android-package\" value=\"nl.xservices.plugins.Calendar\" /></feature>",
-                            "count": 1
-                        }
-                    ]
-                }
-            },
-            "AndroidManifest.xml": {
-                "parents": {
-                    "/manifest": [
-                        {
-                            "xml": "<uses-permission android:name=\"android.permission.READ_CALENDAR\" />",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<uses-permission android:name=\"android.permission.WRITE_CALENDAR\" />",
-                            "count": 1
                         }
                     ]
                 }
@@ -49,22 +23,13 @@
     },
     "installed_plugins": {
         "com.ionic.keyboard": {
-            "PACKAGE_NAME": "com.ionicframework.myoverallhealth449709"
+            "PACKAGE_NAME": "com.ionicframework.myoverallhealth387629"
         },
         "org.apache.cordova.console": {
-            "PACKAGE_NAME": "com.ionicframework.myoverallhealth449709"
+            "PACKAGE_NAME": "com.ionicframework.myoverallhealth387629"
         },
         "org.apache.cordova.device": {
-            "PACKAGE_NAME": "com.ionicframework.myoverallhealth449709"
-        },
-        "org.apache.cordova.inappbrowser": {
-            "PACKAGE_NAME": "com.ionicframework.myoverallhealth449709"
-        },
-        "com.bez4pieci.cookies": {
-            "PACKAGE_NAME": "com.ionicframework.myoverallhealth449709"
-        },
-        "nl.x-services.plugins.calendar": {
-            "PACKAGE_NAME": "com.ionicframework.myoverallhealth449709"
+            "PACKAGE_NAME": "com.ionicframework.myoverallhealth387629"
         }
     },
     "dependent_plugins": {}
